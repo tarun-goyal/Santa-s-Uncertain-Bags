@@ -1,0 +1,968 @@
+bag_id,Gifts,number_of_gifts,total_weight
+bag_894,ball_903 ball_902 ball_901 ball_900 ball_909 ball_908 book_600 book_601 book_602 book_603 book_604 book_605 book_358 book_359 book_356 book_357 book_354 book_355 book_352 book_353 book_350 book_351 ball_459 ball_458 ,24,48.0434017049
+bag_291,book_1138 book_949 book_948 book_943 book_942 book_941 book_940 book_947 book_946 book_945 book_944 doll_30 book_1139 ball_392 ball_393 ball_390 ball_391 ball_396 ball_397 ball_394 ball_395 ball_398 ball_399 ,23,49.0280021543
+bag_870,ball_173 ball_170 ball_171 horse_616 ball_178 ball_179 ball_1008 horse_614 ball_1004 ball_1005 ball_1006 ball_1007 ball_1000 ball_1001 ball_1002 ball_1003 book_75 ball_288 ball_289 ball_284 ball_285 ball_286 ,22,49.9967337311
+bag_576,blocks_135 book_499 book_498 book_511 book_495 book_494 book_497 book_496 book_491 book_512 book_493 book_492 ball_848 ball_849 ball_842 ball_843 ball_840 ball_841 ball_846 ball_847 ,20,49.6947949422
+bag_120,doll_42 blocks_273 ball_1085 ball_1086 ball_1087 ball_1080 ball_1081 ball_1082 ball_1083 book_503 book_502 book_501 book_500 ball_1088 ball_1089 book_853 book_504 ball_56 ,18,48.6763799506
+bag_897,blocks_516 ball_454 doll_78 ball_457 ball_456 ball_169 ball_168 ball_161 ball_160 ball_163 ball_162 ball_165 ball_164 ball_167 ball_166 book_828 book_829 book_820 ,18,48.6655166221
+bag_11,doll_733 book_319 book_648 book_649 book_644 book_313 book_310 book_311 book_316 book_317 book_314 book_315 book_1130 doll_146 horse_223 doll_143 doll_142 gloves_43 ,18,49.5302736176
+bag_968,book_997 book_990 book_227 book_334 book_335 book_336 book_337 book_330 book_224 book_332 book_333 book_993 book_338 book_339 book_628 book_629 blocks_662 doll_607 ,18,48.7125910459
+bag_1003,book_639 book_638 blocks_948 horse_723 book_631 book_630 book_633 book_632 book_635 book_634 book_637 book_636 book_327 book_326 book_325 book_324 book_323 book_322 ,18,48.717330493
+bag_327,book_978 book_979 book_976 book_977 book_974 book_975 book_972 book_973 book_970 book_971 doll_275 doll_274 horse_862 doll_277 doll_7 ball_385 ball_384 ,17,49.0230502695
+bag_934,doll_115 book_839 book_838 horse_93 book_833 book_832 book_831 book_830 book_837 book_836 book_835 book_834 doll_119 book_1002 coal_58 book_446 book_195 ,17,49.3590638299
+bag_520,horse_488 ball_868 ball_869 blocks_882 horse_951 book_259 book_258 book_929 book_928 book_253 book_252 book_251 book_250 book_257 book_256 book_255 book_254 ,17,49.7066703895
+bag_484,book_938 book_939 horse_940 doll_182 book_240 book_933 book_242 book_243 book_936 book_937 book_246 book_935 doll_180 ball_602 book_1039 horse_941 horse_946 ,17,49.0361502732
+bag_830,ball_966 ball_969 ball_968 doll_159 book_378 book_379 book_370 book_371 book_372 book_373 book_374 book_375 book_376 book_377 gloves_171 blocks_540 gloves_173 ,17,49.6904726478
+bag_577,ball_844 ball_845 book_516 book_845 book_271 book_270 book_273 book_272 book_275 book_274 book_277 book_276 book_279 book_278 horse_733 blocks_402 doll_389 ,17,49.7019309424
+bag_545,doll_468 doll_469 doll_398 doll_399 book_489 doll_55 book_482 book_483 book_480 book_481 book_486 book_487 book_484 book_485 ball_877 ball_876 ball_875 ,17,49.0146897129
+bag_928,book_340 book_343 book_610 book_617 book_616 book_615 book_346 book_349 book_348 book_619 book_618 doll_187 doll_186 doll_185 doll_184 doll_847 book_299 ,17,49.0255530415
+bag_833,doll_204 doll_205 doll_206 doll_207 doll_891 doll_890 ball_142 ball_141 ball_140 ball_147 ball_146 ball_145 ball_144 ball_149 ball_148 ball_191 ,16,49.9811846146
+bag_899,blocks_796 ball_299 ball_298 ball_297 ball_296 ball_295 ball_294 ball_293 ball_292 ball_291 ball_290 book_66 book_926 ball_95 train_437 book_921 ,16,49.7151636682
+bag_14,book_798 book_799 book_796 book_797 book_794 book_795 book_792 book_793 book_790 book_791 blocks_559 blocks_984 ball_125 ball_124 ball_127 gloves_64 ,16,49.8612594153
+bag_16,ball_184 blocks_989 ball_183 ball_182 book_864 book_865 book_866 book_867 book_860 train_585 book_862 book_863 ball_180 book_868 book_869 ball_309 ,16,49.7368903254
+bag_88,ball_1095 ball_1094 book_842 book_843 ball_1099 ball_1098 book_846 book_847 book_844 book_517 blocks_537 blocks_967 doll_13 gloves_94 gloves_19 gloves_18 ,16,49.8464277914
+bag_85,ball_695 ball_694 ball_49 ball_48 doll_282 doll_283 doll_284 doll_285 doll_286 doll_287 ball_41 ball_40 ball_43 ball_42 ball_45 ball_44 ,16,49.9811846146
+bag_53,doll_793 train_695 train_694 ball_682 ball_683 ball_684 ball_685 ball_686 ball_687 ball_78 ball_79 ball_74 ball_75 ball_76 ball_77 gloves_106 ,16,49.5832051736
+bag_731,doll_615 horse_826 doll_613 doll_612 doll_611 doll_610 book_239 book_238 book_989 book_988 book_235 book_234 book_237 book_236 book_231 ,15,48.0191197161
+bag_834,ball_1019 ball_1018 ball_1013 ball_1012 ball_1011 ball_1010 ball_1017 ball_1016 ball_1015 ball_1014 book_42 blocks_687 blocks_686 book_45 book_44 ,15,49.3359305195
+bag_270,horse_265 horse_264 horse_263 horse_262 horse_261 horse_260 ball_401 ball_406 ball_407 ball_404 ball_405 ball_408 ball_409 gloves_151 book_723 ,15,49.5133493705
+bag_895,horse_904 horse_905 book_288 book_289 book_284 horse_902 book_286 book_287 book_280 book_281 book_282 horse_10 horse_900 horse_901 ball_455 ,15,48.039195842
+bag_10,horse_896 horse_897 book_136 book_137 book_134 book_135 doll_734 doll_735 book_138 book_139 doll_730 doll_731 doll_732 book_318 gloves_42 ,15,49.5156829607
+bag_1010,ball_137 ball_134 ball_135 ball_138 ball_139 book_1076 blocks_628 blocks_665 book_811 book_810 book_813 book_812 book_815 book_814 book_817 ,15,49.3540360671
+bag_54,ball_70 ball_71 ball_72 ball_73 horse_313 bike_305 book_781 book_780 book_783 book_782 book_785 book_784 book_787 book_786 gloves_99 ,15,49.6105704464
+bag_358,book_381 book_380 book_383 book_382 doll_147 doll_56 doll_145 doll_144 book_389 book_388 doll_141 doll_57 book_569 book_568 book_565 ,15,48.014380269
+bag_795,doll_946 doll_945 doll_944 doll_943 doll_942 ball_976 ball_977 ball_974 ball_975 ball_972 ball_973 ball_970 ball_971 doll_441 gloves_162 ,15,49.4812915785
+bag_114,doll_879 doll_878 doll_709 doll_708 book_674 book_677 book_676 book_671 book_670 book_673 book_672 blocks_789 book_679 book_678 ,14,49.6851036103
+bag_732,book_230 book_643 book_232 doll_19 ball_958 ball_959 doll_923 doll_922 doll_925 doll_924 doll_927 doll_926 ball_950 ball_951 ,14,48.9917384993
+bag_733,ball_952 ball_953 ball_954 ball_955 ball_956 ball_957 doll_96 doll_97 doll_94 doll_95 doll_92 doll_93 doll_90 book_6 ,14,48.9844962803
+bag_693,bike_100 book_229 book_998 book_999 book_222 book_995 book_220 book_621 book_226 book_991 book_992 book_225 doll_938 book_996 ,14,49.1203343084
+bag_542,horse_795 bike_478 book_1140 book_1143 book_1142 book_1145 book_1144 book_1147 book_1146 ball_781 ball_780 ball_783 ball_782 ball_785 ,14,49.1069682078
+bag_13,doll_140 horse_222 doll_268 doll_269 ball_68 ball_67 ball_66 ball_65 ball_64 ball_63 ball_62 ball_61 ball_60 blocks_941 ,14,49.6572530716
+bag_432,ball_620 ball_621 ball_628 ball_629 bike_207 book_769 book_768 book_767 book_766 book_765 book_764 book_763 horse_62 book_761 ,14,49.1105893173
+bag_760,bike_208 book_422 book_423 ball_899 ball_898 ball_891 ball_890 ball_893 ball_892 ball_895 ball_894 ball_897 ball_896 doll_622 ,14,49.0841232131
+bag_1006,doll_521 doll_520 doll_523 doll_522 ball_600 ball_90 ball_91 ball_96 ball_97 ball_94 train_894 ball_98 ball_99 ball_603 ,14,48.032352442
+bag_56,horse_336 horse_331 blocks_977 horse_330 book_876 book_875 book_874 book_873 horse_333 book_871 book_870 horse_332 gloves_39 gloves_38 ,14,49.6975903314
+bag_328,ball_387 ball_386 ball_381 ball_380 ball_383 ball_382 doll_271 ball_389 ball_388 doll_270 train_27 train_26 book_65 ,13,48.0865357102
+bag_602,doll_665 doll_662 doll_663 doll_660 doll_661 doll_668 doll_669 book_1163 book_1162 book_1161 book_1160 horse_528 ball_859 ,13,49.9991839434
+bag_543,ball_784 ball_787 ball_786 ball_789 ball_788 doll_396 doll_397 doll_394 doll_395 doll_460 doll_461 doll_390 doll_391 ,13,49.9799600582
+bag_790,book_431 book_430 book_855 book_153 train_692 book_854 doll_434 book_406 blocks_248 book_857 book_407 doll_867 book_856 ,13,49.735665769
+bag_308,horse_277 horse_278 horse_279 train_321 ball_410 ball_413 ball_412 coal_25 book_302 ball_419 ball_418 book_1008 book_490 ,13,49.381669231
+bag_893,doll_992 doll_993 doll_994 doll_995 doll_996 doll_997 doll_998 doll_999 book_850 ball_907 ball_906 ball_905 ball_904 ,13,49.9835811678
+bag_929,blocks_495 doll_845 book_298 book_297 book_296 book_295 book_294 book_293 book_292 book_291 book_290 blocks_206 ball_363 ,13,48.3573477328
+bag_829,doll_972 doll_973 doll_970 doll_971 doll_976 doll_977 doll_974 doll_975 ball_963 ball_962 ball_965 ball_964 ball_967 ,13,49.9799600582
+bag_871,ball_287 ball_280 ball_281 ball_282 ball_283 book_76 doll_149 doll_885 train_402 train_403 book_70 ball_358 ball_359 ,13,48.0901568197
+bag_611,blocks_160 book_204 book_205 book_206 book_207 book_200 book_201 book_202 book_203 book_208 book_209 blocks_161 doll_918 ,13,48.3609688423
+bag_764,ball_940 ball_947 ball_946 ball_945 ball_944 horse_304 book_40 horse_654 horse_307 gloves_199 gloves_198 blocks_964 gloves_195 ,13,49.1709834108
+bag_546,train_199 ball_874 ball_873 ball_872 ball_871 ball_870 ball_879 ball_878 doll_280 doll_281 blocks_419 book_268 book_269 ,13,49.7103180023
+bag_286,blocks_835 book_897 book_896 book_547 book_546 book_543 book_542 book_541 book_540 book_549 book_548 doll_562 blocks_247 ,13,48.3609688423
+bag_973,blocks_325 ball_103 ball_102 ball_101 ball_100 horse_517 horse_516 train_286 book_808 book_809 book_806 book_807 book_804 ,13,49.730660225
+bag_970,doll_532 doll_533 doll_530 doll_531 doll_536 doll_537 doll_534 doll_535 ball_85 ball_84 ball_87 ball_86 ball_81 ,13,49.9799600582
+bag_971,horse_140 ball_83 ball_82 ball_89 ball_88 doll_244 doll_245 doll_246 doll_247 doll_240 doll_241 doll_242 ball_109 ,13,49.9846995053
+bag_972,doll_243 doll_248 doll_249 doll_148 horse_511 horse_510 horse_513 horse_512 ball_108 ball_107 ball_106 ball_105 ball_104 ,13,49.9989178465
+bag_424,train_506 train_505 book_1087 book_1080 book_1081 book_1082 book_1083 book_881 book_1088 book_1089 doll_316 book_1024 doll_314 ,13,48.1155045864
+bag_324,doll_153 book_578 book_579 book_572 book_573 book_570 book_571 book_576 bike_107 book_574 book_575 doll_374 ,12,48.1091615359
+bag_809,blocks_336 horse_45 blocks_334 doll_578 ball_371 ball_372 ball_373 ball_374 ball_375 ball_376 ball_377 ball_8 ,12,49.3285820816
+bag_671,train_758 train_759 ball_220 ball_221 ball_226 ball_227 ball_224 ball_225 horse_168 horse_169 horse_160 ball_925 ,12,49.0962178294
+bag_772,book_4 horse_139 horse_138 doll_909 book_5 doll_908 ball_707 doll_459 book_7 doll_458 doll_2 doll_433 ,12,48.0009079496
+bag_43,horse_23 horse_242 horse_316 horse_885 horse_579 horse_578 horse_573 horse_572 horse_571 book_655 book_654 gloves_72 ,12,49.5295289862
+bag_42,horse_979 horse_978 horse_24 horse_25 horse_26 horse_974 horse_20 horse_21 horse_22 book_657 book_304 gloves_73 ,12,49.5295289862
+bag_110,horse_592 horse_595 horse_594 horse_597 horse_596 horse_599 horse_598 doll_306 ball_995 ball_996 ball_997 ball_990 ,12,48.0137418564
+bag_203,blocks_641 horse_95 horse_94 horse_97 horse_91 horse_90 ball_33 ball_34 ball_35 ball_36 ball_37 ball_38 ,12,48.6759014161
+bag_734,doll_91 doll_98 doll_99 gloves_188 doll_705 doll_704 gloves_180 doll_17 gloves_182 gloves_183 gloves_184 ball_1040 ,12,49.4811137653
+bag_77,horse_704 horse_705 horse_706 horse_707 doll_34 horse_755 doll_35 horse_754 doll_36 book_662 book_663 gloves_100 ,12,49.515310645
+bag_78,horse_960 horse_961 horse_962 horse_963 horse_964 horse_965 horse_39 horse_38 horse_37 book_660 book_661 gloves_57 ,12,49.5295289862
+bag_79,horse_36 horse_35 horse_34 horse_33 horse_32 horse_31 horse_568 horse_569 horse_564 book_666 book_667 gloves_127 ,12,49.5295289862
+bag_123,blocks_91 ball_54 ball_55 ball_52 ball_53 ball_50 ball_51 horse_840 ball_58 ball_59 horse_414 blocks_451 ,12,49.3333215286
+bag_27,horse_391 horse_390 horse_397 horse_396 horse_395 horse_394 horse_399 horse_398 horse_312 ball_460 ball_461 gloves_14 ,12,49.5222867671
+bag_408,blocks_349 book_916 book_917 book_910 book_911 book_912 book_913 book_918 book_919 doll_957 blocks_346 doll_482 ,12,49.3528115107
+bag_863,doll_966 doll_961 doll_960 doll_963 doll_962 ball_910 ball_911 ball_912 ball_913 blocks_905 ball_918 ball_919 ,12,48.6522041807
+bag_771,book_880 book_0 ball_700 book_2 horse_133 horse_132 horse_131 horse_130 horse_137 horse_136 horse_135 horse_134 ,12,48.0293446321
+bag_759,horse_812 horse_813 horse_814 horse_815 horse_816 horse_817 horse_818 horse_819 book_426 book_427 book_420 book_421 ,12,48.0329657416
+bag_66,horse_385 horse_386 horse_387 horse_380 horse_381 horse_382 horse_383 doll_886 horse_388 book_641 book_1014 gloves_62 ,12,49.5247895391
+bag_8,ball_496 ball_491 ball_490 ball_493 ball_492 horse_898 horse_899 bike_288 horse_890 book_132 book_133 gloves_44 ,12,49.597098127
+bag_0,horse_546 horse_547 horse_544 horse_545 horse_542 horse_543 horse_540 horse_541 horse_548 book_1035 book_1034 gloves_116 ,12,49.5295289862
+bag_15,blocks_558 blocks_985 ball_126 ball_121 ball_120 ball_123 ball_122 ball_129 ball_128 blocks_988 gloves_4 gloves_126 ,12,49.9951339026
+bag_86,ball_47 ball_46 blocks_960 blocks_535 blocks_938 book_518 ball_1092 ball_1091 ball_1090 ball_1097 gloves_68 gloves_135 ,12,49.9987550121
+bag_82,doll_869 doll_718 doll_719 bike_307 book_664 book_665 horse_245 book_668 book_669 gloves_102 gloves_79 gloves_78 ,12,49.5945142662
+bag_81,coal_19 horse_241 doll_862 doll_711 doll_716 doll_717 doll_866 horse_240 doll_868 gloves_105 gloves_107 gloves_109 ,12,49.8139136836
+bag_80,horse_565 horse_566 horse_567 horse_560 horse_561 horse_562 horse_563 coal_18 doll_712 gloves_101 gloves_103 gloves_104 ,12,49.837610919
+bag_547,bike_350 doll_1 book_266 book_267 book_264 book_265 book_262 book_263 book_260 book_261 doll_288 book_71 ,12,48.1091615359
+bag_359,book_564 book_567 book_566 book_561 book_560 book_563 book_562 doll_367 doll_366 blocks_39 blocks_38 ball_828 ,12,49.3491904012
+bag_974,book_805 book_802 book_803 book_800 book_801 train_666 train_459 train_458 ball_327 ball_326 ball_325 ball_324 ,12,48.151582307
+bag_729,train_925 train_924 ball_886 ball_887 ball_884 horse_822 ball_882 ball_883 ball_880 ball_881 doll_191 horse_825 ,12,49.0914783823
+bag_807,horse_125 horse_126 horse_127 horse_120 horse_121 horse_122 horse_123 horse_128 horse_129 ball_255 ball_378 ,11,49.022305638
+bag_366,book_964 book_967 book_966 book_969 book_968 train_504 train_18 train_19 book_1016 ball_706 horse_472 ,11,49.1590277511
+bag_631,blocks_295 blocks_169 ball_213 ball_212 ball_211 ball_210 ball_219 ball_218 horse_177 horse_176 gloves_167 ,11,48.8334284925
+bag_634,horse_607 horse_606 horse_357 horse_356 horse_355 horse_354 horse_353 horse_352 horse_351 book_1172 book_1173 ,11,49.0295478571
+bag_743,horse_103 horse_100 horse_101 doll_63 doll_62 doll_61 horse_326 horse_327 horse_324 book_63 book_60 ,11,49.0153295159
+bag_567,horse_154 horse_157 horse_156 horse_159 horse_158 horse_409 horse_408 horse_379 horse_378 book_519 book_1152 ,11,49.0295478571
+bag_568,horse_371 horse_370 horse_373 horse_372 horse_375 horse_374 horse_377 horse_376 doll_910 book_1153 book_1150 ,11,49.02480841
+bag_864,blocks_851 blocks_550 book_369 book_368 train_848 book_363 book_362 book_361 book_360 book_367 book_366 ,11,49.4033736694
+bag_24,blocks_979 horse_716 horse_715 horse_714 horse_713 horse_712 horse_711 horse_710 book_1031 gloves_93 gloves_90 ,11,49.6877391215
+bag_305,doll_31 horse_494 horse_495 horse_496 horse_497 horse_490 horse_491 horse_492 horse_493 ball_414 ball_417 ,11,49.017566191
+bag_891,horse_96 book_1075 book_1074 book_1077 horse_92 train_304 doll_514 doll_515 doll_516 doll_517 book_851 ,11,48.0550912178
+bag_927,train_985 train_983 train_981 book_163 book_162 book_165 book_164 book_167 book_166 horse_243 book_613 ,11,49.1626488606
+bag_574,book_1154 book_1155 book_849 blocks_303 doll_477 doll_476 doll_475 doll_474 doll_473 doll_472 book_510 ,11,49.6657735063
+bag_784,doll_430 doll_790 horse_319 horse_318 horse_645 horse_644 horse_647 horse_646 horse_641 ball_711 book_509 ,11,49.0164478534
+bag_820,horse_655 horse_652 horse_653 horse_650 horse_651 horse_887 horse_554 horse_874 horse_875 ball_704 book_1199 ,11,49.0259267476
+bag_434,doll_698 doll_165 book_1062 doll_167 doll_166 doll_161 doll_160 doll_163 horse_69 doll_169 book_583 ,11,48.9916322805
+bag_433,book_760 doll_697 doll_696 doll_695 horse_63 doll_693 doll_692 doll_691 doll_690 book_550 doll_699 ,11,48.9916322805
+bag_146,horse_11 horse_903 horse_13 horse_12 horse_19 horse_18 horse_908 horse_909 doll_614 book_536 book_534 ,11,49.02480841
+bag_869,doll_217 doll_216 doll_215 doll_214 doll_881 doll_76 horse_612 horse_613 horse_610 ball_175 ball_172 ,11,48.9938689556
+bag_923,horse_61 horse_64 horse_65 horse_66 horse_67 horse_68 horse_836 doll_506 doll_505 ball_939 ball_931 ,11,49.0128267439
+bag_594,horse_145 horse_148 horse_149 horse_418 horse_419 horse_368 horse_369 horse_362 horse_363 ball_672 ball_679 ,11,49.022305638
+bag_763,blocks_400 doll_954 doll_487 ball_948 doll_950 doll_951 doll_952 doll_481 ball_943 ball_942 ball_941 ,11,49.6512890682
+bag_762,doll_559 doll_550 doll_551 doll_552 doll_553 doll_554 doll_555 doll_556 doll_557 book_535 ball_949 ,11,48.9832717239
+bag_108,horse_916 horse_911 horse_910 horse_913 horse_912 horse_919 horse_918 horse_591 horse_590 ball_732 ball_998 ,11,49.022305638
+bag_792,book_505 doll_633 doll_632 book_852 doll_639 doll_638 doll_549 doll_548 doll_543 doll_542 doll_541 ,11,48.9868928334
+bag_285,doll_123 doll_122 doll_125 doll_124 doll_127 doll_126 blocks_772 book_893 book_892 book_895 book_894 ,11,49.6657735063
+bag_696,doll_88 doll_81 doll_80 doll_83 doll_82 doll_85 doll_84 doll_87 doll_86 doll_60 ,10,49.9787355019
+bag_325,doll_375 doll_376 doll_377 doll_370 doll_371 doll_372 doll_373 doll_378 doll_379 doll_4 ,10,49.9787355019
+bag_773,doll_3 doll_860 doll_455 doll_454 doll_457 doll_456 doll_432 doll_451 doll_861 doll_450 ,10,49.9787355019
+bag_45,horse_577 horse_576 horse_575 horse_574 blocks_504 horse_315 blocks_159 gloves_122 gloves_123 gloves_120 ,10,49.8459492568
+bag_163,blocks_87 blocks_88 blocks_89 ball_27 ball_26 ball_25 ball_24 ball_29 ball_28 book_825 ,10,48.998792754
+bag_198,train_908 doll_851 doll_850 doll_853 doll_852 doll_855 doll_854 doll_857 ball_30 ball_31 ,10,49.0302127731
+bag_199,doll_856 doll_103 doll_102 doll_101 doll_100 doll_107 doll_106 doll_105 doll_104 doll_109 ,10,49.9787355019
+bag_735,doll_707 gloves_186 gloves_187 train_136 doll_706 doll_701 doll_700 doll_703 doll_14 ball_1041 ,10,49.0307361446
+bag_632,horse_175 horse_174 horse_173 horse_172 horse_171 horse_170 horse_179 horse_178 horse_601 gloves_169 ,10,48.5224126019
+bag_74,blocks_732 doll_467 doll_392 blocks_635 doll_393 doll_462 horse_752 gloves_33 gloves_32 gloves_35 ,10,49.8269914685
+bag_444,blocks_10 blocks_19 blocks_18 ball_809 ball_806 ball_807 ball_804 ball_805 ball_802 ball_803 ,10,48.9951716444
+bag_234,horse_928 horse_929 horse_924 horse_253 horse_250 horse_251 horse_920 horse_257 horse_254 gloves_159 ,10,48.5224126019
+bag_865,book_365 book_364 gloves_144 blocks_144 gloves_146 gloves_147 gloves_140 gloves_141 gloves_142 blocks_145 ,10,48.3323455245
+bag_831,doll_157 gloves_175 gloves_174 gloves_177 blocks_541 gloves_179 gloves_178 blocks_543 book_41 book_577 ,10,49.8313234481
+bag_23,ball_303 ball_302 gloves_143 blocks_968 doll_18 blocks_969 doll_737 horse_717 gloves_148 gloves_58 ,10,49.8278620258
+bag_668,train_98 train_99 ball_1068 ball_1069 blocks_939 horse_608 ball_1062 ball_1063 ball_1060 ball_1061 ,10,48.7580679451
+bag_407,blocks_29 blocks_889 blocks_888 ball_836 ball_835 ball_834 ball_1009 book_1112 book_914 book_915 ,10,49.006034973
+bag_861,doll_563 doll_340 doll_565 doll_564 doll_567 doll_566 doll_569 doll_568 doll_969 doll_968 ,10,49.9787355019
+bag_896,doll_228 doll_229 doll_226 doll_227 doll_224 doll_225 doll_222 doll_223 doll_220 doll_221 ,10,49.9787355019
+bag_892,doll_510 doll_511 doll_512 doll_513 doll_518 doll_519 doll_29 doll_28 doll_990 doll_991 ,10,49.9787355019
+bag_898,doll_334 bike_127 book_821 book_822 book_823 book_824 train_318 book_826 book_827 book_67 ,10,49.151566363
+bag_398,doll_683 horse_969 doll_688 doll_689 doll_172 doll_173 doll_170 doll_171 doll_176 doll_177 ,10,49.9834749489
+bag_65,blocks_561 horse_197 doll_882 doll_883 blocks_883 doll_736 horse_384 gloves_125 gloves_24 gloves_65 ,10,49.8317309156
+bag_240,doll_136 doll_137 doll_134 doll_135 doll_132 doll_133 doll_130 doll_131 doll_138 doll_139 ,10,49.9787355019
+bag_827,doll_797 doll_794 horse_558 doll_898 horse_889 horse_888 doll_421 doll_426 doll_427 doll_579 ,10,49.9929538431
+bag_711,horse_621 horse_620 train_319 horse_339 horse_338 horse_629 horse_628 doll_195 book_91 book_96 ,10,49.0658916746
+bag_89,blocks_536 blocks_965 doll_262 doll_263 doll_260 doll_261 doll_266 gloves_51 gloves_50 gloves_56 ,10,49.8222520215
+bag_83,horse_244 doll_792 horse_247 blocks_962 horse_246 blocks_934 ball_699 ball_698 ball_693 gloves_48 ,10,49.8368175484
+bag_431,horse_993 horse_992 horse_785 bike_206 gloves_190 ball_627 ball_624 ball_625 ball_622 ball_623 ,10,48.5899817427
+bag_430,horse_228 horse_999 horse_998 gloves_196 horse_995 horse_994 horse_997 horse_220 horse_991 horse_990 ,10,48.5224126019
+bag_925,doll_503 doll_502 doll_501 doll_500 doll_509 doll_508 doll_983 doll_982 doll_987 doll_986 ,10,49.9787355019
+bag_612,doll_919 doll_448 doll_449 doll_442 doll_911 doll_912 train_582 doll_914 book_688 book_689 ,10,49.0374549921
+bag_761,doll_623 doll_620 doll_621 doll_626 doll_627 doll_624 doll_625 doll_628 doll_629 doll_558 ,10,49.9787355019
+bag_765,horse_300 gloves_194 gloves_193 gloves_192 gloves_191 horse_301 horse_302 horse_303 train_122 doll_453 ,10,49.0502173045
+bag_55,book_789 book_788 blocks_488 blocks_637 horse_335 doll_796 horse_334 horse_337 book_877 gloves_37 ,10,49.847680877
+bag_828,doll_576 doll_577 doll_574 doll_575 doll_572 doll_573 doll_570 doll_571 doll_978 doll_979 ,10,49.9787355019
+bag_467,horse_450 horse_451 horse_452 horse_453 horse_454 horse_456 horse_457 train_984 ball_634 ball_637 ,10,49.0633889026
+bag_352,train_948 horse_683 horse_682 horse_685 horse_684 horse_687 horse_686 doll_815 book_705 book_704 ,10,49.0658916746
+bag_353,doll_814 doll_817 doll_816 doll_811 doll_810 doll_813 doll_812 doll_9 doll_819 doll_818 ,10,49.9787355019
+bag_791,blocks_484 book_404 book_507 book_405 book_506 doll_635 doll_634 doll_637 train_691 doll_631 ,10,49.716335665
+bag_793,doll_540 doll_547 doll_546 doll_545 doll_544 train_690 doll_795 doll_499 ball_978 ball_979 ,10,49.0302127731
+bag_794,doll_498 doll_491 doll_490 doll_493 doll_492 doll_495 doll_494 doll_497 doll_496 doll_947 ,10,49.9787355019
+bag_154,doll_594 horse_678 doll_596 doll_597 doll_590 doll_591 doll_592 horse_679 horse_502 horse_503 ,10,49.9976932902
+bag_151,doll_844 horse_677 doll_842 doll_843 doll_840 horse_670 doll_848 horse_671 doll_110 doll_111 ,10,49.9929538431
+bag_255,book_955 book_956 book_957 blocks_60 train_351 doll_196 doll_197 doll_335 horse_6 ball_667 ,10,49.7174540025
+bag_695,doll_934 doll_935 doll_932 doll_933 doll_930 doll_931 blocks_189 doll_89 ball_814 ,9,48.6509796243
+bag_326,blocks_167 blocks_489 doll_5 book_1000 book_1115 doll_279 doll_278 doll_6 book_1001 ,9,49.3334814067
+bag_938,doll_71 book_442 doll_72 book_443 train_600 train_601 train_602 book_441 ball_334 ,9,48.1431155315
+bag_931,doll_235 doll_234 doll_237 doll_236 doll_239 doll_238 blocks_202 doll_849 ball_118 ,9,48.6509796243
+bag_933,blocks_200 ball_117 ball_110 ball_111 ball_112 ball_113 doll_113 blocks_205 blocks_204 ,9,49.9942565319
+bag_675,gloves_153 blocks_193 horse_298 horse_299 horse_296 horse_297 horse_294 horse_295 gloves_152 ,9,48.6799396783
+bag_674,horse_345 horse_346 horse_347 horse_348 horse_349 horse_618 horse_619 blocks_966 book_533 ,9,48.6877768634
+bag_673,horse_166 horse_167 train_999 gloves_149 horse_340 horse_341 horse_342 horse_343 horse_344 ,9,48.5634958664
+bag_113,blocks_718 doll_872 doll_871 doll_870 doll_877 doll_876 doll_875 doll_874 book_675 ,9,48.6546007338
+bag_116,blocks_523 doll_291 doll_290 doll_297 doll_296 doll_295 doll_294 doll_299 ball_1084 ,9,48.6509796243
+bag_201,doll_585 doll_584 doll_583 doll_582 doll_581 doll_580 blocks_701 doll_323 ball_32 ,9,48.6509796243
+bag_165,doll_921 horse_691 doll_920 horse_696 horse_697 horse_694 horse_695 blocks_557 ball_521 ,9,48.6746768597
+bag_709,horse_117 horse_116 horse_111 horse_110 horse_113 horse_112 blocks_359 horse_627 book_90 ,9,48.6877768634
+bag_481,bike_117 blocks_36 ball_811 ball_810 ball_813 book_342 ball_815 horse_943 ball_816 ,9,48.7553460042
+bag_941,train_609 blocks_925 doll_273 doll_77 train_657 ball_330 ball_331 ball_332 ball_333 ,9,49.7524133856
+bag_943,blocks_259 blocks_528 horse_202 ball_338 ball_339 book_199 horse_195 doll_349 doll_156 ,9,49.3357180818
+bag_636,horse_287 horse_286 horse_281 horse_280 horse_283 horse_282 blocks_68 doll_37 book_1176 ,9,48.6830374163
+bag_380,blocks_857 horse_216 horse_212 horse_213 horse_211 book_1098 horse_218 horse_219 horse_698 ,9,48.6877768634
+bag_744,horse_325 horse_322 horse_323 horse_320 horse_321 doll_67 horse_328 horse_329 coal_45 ,9,48.3376675318
+bag_742,blocks_213 horse_108 horse_109 horse_106 horse_107 horse_104 horse_105 horse_102 book_68 ,9,48.6877768634
+bag_569,doll_443 blocks_227 doll_440 doll_913 doll_446 doll_447 doll_444 doll_836 book_1151 ,9,48.6546007338
+bag_331,doll_26 doll_25 train_309 train_308 doll_21 doll_20 horse_634 ball_565 ball_564 ,9,49.0855143788
+bag_446,bike_21 blocks_856 doll_956 book_906 book_905 book_904 book_903 book_901 book_900 ,9,48.7687121047
+bag_239,blocks_490 doll_825 doll_826 doll_827 doll_820 doll_821 doll_822 doll_823 book_958 ,9,48.6546007338
+bag_832,doll_896 doll_208 doll_209 blocks_549 doll_200 doll_201 doll_202 doll_203 ball_143 ,9,48.6509796243
+bag_995,blocks_756 horse_959 bike_369 book_1047 book_1048 ball_480 book_144 ball_486 ball_487 ,9,48.7625882232
+bag_860,horse_81 horse_86 horse_87 horse_84 horse_85 blocks_853 doll_561 doll_560 ball_917 ,9,48.6746768597
+bag_537,blocks_598 horse_437 horse_434 horse_435 horse_432 horse_433 horse_430 horse_431 ball_655 ,9,48.6841557538
+bag_473,horse_980 horse_981 blocks_486 doll_162 blocks_33 doll_355 book_758 book_759 book_587 ,9,49.3429603009
+bag_307,blocks_589 horse_270 horse_271 horse_272 horse_273 horse_274 horse_275 horse_276 ball_411 ,9,48.6841557538
+bag_890,bike_138 doll_22 book_1078 horse_765 horse_99 horse_98 book_1071 book_1070 book_1073 ,9,48.1040497731
+bag_399,doll_174 doll_175 doll_178 doll_179 blocks_22 blocks_23 ball_831 ball_830 ball_837 ,9,49.3226180781
+bag_889,book_171 doll_778 doll_779 bike_135 book_178 book_179 doll_24 doll_23 book_1079 ,9,48.0898314319
+bag_648,doll_678 blocks_361 doll_671 doll_670 doll_673 doll_672 doll_675 doll_674 book_214 ,9,48.6546007338
+bag_572,doll_650 doll_657 doll_656 doll_655 doll_654 doll_659 doll_658 blocks_253 book_1156 ,9,48.6546007338
+bag_578,doll_388 blocks_307 doll_381 doll_380 doll_383 doll_382 doll_385 doll_384 ball_80 ,9,48.6509796243
+bag_340,horse_465 horse_464 horse_467 horse_466 horse_469 horse_468 blocks_256 horse_205 ball_605 ,9,48.6841557538
+bag_475,doll_438 book_586 blocks_706 horse_709 blocks_34 horse_552 doll_345 book_588 book_341 ,9,49.3429603009
+bag_826,horse_879 horse_881 train_871 blocks_906 book_408 book_409 train_870 ball_961 ball_960 ,9,49.7691344988
+bag_9,bike_289 horse_891 horse_892 horse_893 horse_894 horse_895 book_130 book_131 gloves_45 ,9,49.6053524648
+bag_6,horse_948 horse_949 bike_358 horse_51 horse_50 horse_53 book_1032 ball_495 gloves_46 ,9,49.6017313552
+bag_7,bike_359 horse_52 horse_55 horse_54 horse_57 horse_56 ball_494 ball_497 gloves_59 ,9,49.5981102457
+bag_17,doll_364 doll_363 doll_362 train_385 train_384 train_387 gloves_145 gloves_3 gloves_2 ,9,49.6314063124
+bag_653,doll_906 coal_8 coal_9 train_323 book_699 book_698 train_322 book_693 book_692 ,9,49.7455598334
+bag_84,blocks_937 blocks_611 doll_485 blocks_963 ball_692 ball_691 ball_690 ball_697 ball_696 ,9,49.9942565319
+bag_269,horse_486 horse_485 horse_484 blocks_236 horse_269 horse_268 horse_267 horse_266 ball_400 ,9,48.6841557538
+bag_147,horse_846 blocks_457 horse_582 horse_583 horse_580 horse_581 horse_586 horse_587 book_532 ,9,48.6877768634
+bag_868,blocks_143 doll_219 doll_218 doll_880 doll_213 doll_212 doll_211 doll_210 ball_174 ,9,48.6509796243
+bag_595,horse_360 horse_361 horse_366 horse_367 horse_364 horse_365 blocks_324 horse_459 ball_678 ,9,48.6841557538
+bag_689,blocks_712 book_190 book_191 book_192 bike_106 doll_401 book_198 book_448 book_449 ,9,48.7687121047
+bag_1005,blocks_294 doll_529 doll_528 doll_158 doll_525 doll_524 doll_527 doll_526 ball_92 ,9,48.6509796243
+bag_107,horse_772 doll_304 horse_809 blocks_896 horse_808 horse_915 horse_914 horse_917 ball_731 ,9,48.6794163068
+bag_1004,book_321 book_320 horse_726 book_329 book_328 horse_724 bike_171 doll_356 horse_236 ,9,48.1040497731
+bag_1002,blocks_82 doll_353 blocks_414 doll_749 doll_748 horse_239 book_102 book_101 book_100 ,9,49.3382208538
+bag_460,horse_183 horse_180 horse_181 horse_188 horse_189 horse_75 blocks_337 doll_981 ball_639 ,9,48.6794163068
+bag_541,doll_644 horse_799 doll_646 doll_647 doll_648 doll_649 horse_798 blocks_661 book_1141 ,9,48.664079628
+bag_540,train_846 train_847 doll_0 doll_640 doll_641 doll_642 doll_643 book_1149 book_1148 ,9,49.0880171508
+bag_194,blocks_57 doll_320 doll_328 doll_776 horse_737 doll_327 doll_777 doll_326 book_525 ,9,48.6593401809
+bag_152,doll_112 doll_114 horse_672 doll_116 doll_117 doll_118 horse_673 blocks_654 ball_20 ,9,48.6604585185
+bag_1009,train_890 train_893 doll_354 train_892 doll_729 ball_133 ball_130 ball_131 ball_136 ,9,48.132252203
+bag_853,blocks_271 horse_519 horse_518 horse_849 horse_848 horse_47 horse_40 horse_41 book_141 ,9,48.6877768634
+bag_420,blocks_343 horse_199 horse_198 horse_449 horse_448 blocks_795 ball_588 book_886 book_887 ,9,49.3488180855
+bag_320,bike_301 blocks_631 horse_922 horse_923 book_719 ball_929 book_392 book_393 ,8,49.7664125578
+bag_323,bike_302 doll_154 doll_155 book_398 book_399 doll_150 doll_151 doll_152 ,8,49.0816741003
+bag_840,train_638 train_631 train_630 train_633 ball_648 book_8 book_46 ball_649 ,8,48.1900565807
+bag_801,train_206 train_207 train_200 train_201 ball_1027 ball_1024 ball_1025 ball_1022 ,8,48.1828143616
+bag_802,train_202 train_203 train_208 train_209 ball_1023 ball_1020 ball_1021 ball_1028 ,8,48.1828143616
+bag_35,blocks_777 blocks_776 blocks_774 horse_0 horse_3 book_1029 book_125 gloves_29 ,8,49.5106493303
+bag_30,train_659 train_658 blocks_199 blocks_198 doll_798 gloves_41 gloves_22 gloves_49 ,8,49.9233763388
+bag_31,train_653 train_120 train_123 train_125 doll_799 ball_466 ball_467 gloves_20 ,8,49.6818803782
+bag_549,doll_289 horse_649 blocks_411 horse_648 train_429 coal_65 ball_270 ball_273 ,8,49.0361709089
+bag_677,train_808 train_809 train_806 train_807 book_84 book_87 book_86 book_81 ,8,48.1972987998
+bag_676,horse_292 horse_293 horse_290 horse_291 blocks_870 blocks_192 gloves_150 book_85 ,8,48.8453039398
+bag_670,train_752 train_753 train_750 train_751 ball_228 ball_229 ball_222 ball_223 ,8,48.1828143616
+bag_678,train_804 train_805 train_802 train_803 book_80 book_83 book_82 book_89 ,8,48.1972987998
+bag_111,blocks_894 train_921 train_920 train_923 ball_991 ball_992 ball_993 book_1110 ,8,49.8065966538
+bag_521,horse_950 ball_926 train_144 blocks_196 horse_559 horse_952 coal_59 ball_268 ,8,49.040910356
+bag_488,coal_47 coal_46 horse_947 coal_44 train_368 horse_944 book_1013 book_1012 ,8,49.0220751377
+bag_730,ball_888 bike_256 book_642 horse_827 doll_619 doll_618 doll_617 doll_616 ,8,49.0827924378
+bag_739,train_594 train_595 train_596 train_597 ball_1046 ball_1047 ball_1048 ball_1049 ,8,48.1828143616
+bag_633,bike_99 horse_600 horse_603 horse_602 horse_605 horse_604 book_1170 book_1171 ,8,49.1053713357
+bag_635,horse_350 bike_337 horse_289 horse_288 horse_285 horse_284 book_1174 book_1175 ,8,49.1053713357
+bag_1013,train_445 train_442 train_443 train_440 ball_312 ball_313 ball_310 ball_311 ,8,48.1828143616
+bag_926,train_989 train_988 train_987 train_986 book_169 book_168 book_161 book_160 ,8,48.1972987998
+bag_692,bike_101 doll_604 doll_606 doll_600 doll_601 doll_602 book_331 book_228 ,8,49.0816741003
+bag_70,train_644 train_645 train_130 train_131 doll_465 ball_471 ball_470 gloves_84 ,8,49.6818803782
+bag_71,train_640 train_641 train_642 train_643 doll_466 ball_477 ball_476 gloves_85 ,8,49.6818803782
+bag_76,bike_119 blocks_700 horse_701 horse_702 horse_703 ball_478 gloves_40 gloves_53 ,8,49.7599414906
+bag_75,horse_708 blocks_704 horse_750 bike_118 horse_700 ball_479 gloves_34 gloves_47 ,8,49.7599414906
+bag_124,blocks_739 book_861 book_186 blocks_525 blocks_738 book_1093 horse_722 book_1094 ,8,48.0140860858
+bag_839,train_416 train_419 train_418 train_639 ball_367 ball_366 ball_365 ball_364 ,8,48.1828143616
+bag_838,train_412 train_415 train_414 train_417 book_440 ball_362 ball_361 ball_360 ,8,48.1864354712
+bag_25,train_845 horse_719 horse_718 horse_942 bike_357 book_1030 ball_812 gloves_17 ,8,49.6428146198
+bag_26,blocks_978 bike_354 doll_258 horse_393 horse_392 book_1038 gloves_98 gloves_15 ,8,49.758823153
+bag_21,train_477 train_476 train_475 train_474 horse_224 ball_301 ball_300 gloves_9 ,8,49.6866198253
+bag_20,train_473 train_472 train_471 train_470 horse_514 ball_307 ball_306 gloves_5 ,8,49.6866198253
+bag_22,train_479 train_478 doll_365 blocks_519 blocks_518 gloves_60 gloves_97 gloves_96 ,8,49.9233763388
+bag_664,train_240 train_241 train_242 train_243 book_193 ball_194 ball_195 ball_196 ,8,48.1864354712
+bag_703,train_236 train_231 train_230 train_233 ball_234 ball_237 ball_236 ball_231 ,8,48.1828143616
+bag_702,train_238 train_235 train_234 train_237 ball_1050 ball_239 ball_238 ball_235 ,8,48.1828143616
+bag_669,ball_1066 ball_1067 ball_1064 ball_1065 train_756 train_757 train_754 train_755 ,8,48.1828143616
+bag_704,train_232 train_85 train_84 train_87 ball_230 ball_233 ball_232 book_932 ,8,48.1864354712
+bag_904,train_614 train_613 train_612 train_611 book_62 book_927 book_30 book_31 ,8,48.1972987998
+bag_901,train_432 train_431 train_430 blocks_931 ball_342 ball_345 ball_344 ball_347 ,8,49.8029755442
+bag_900,train_436 train_435 train_434 train_433 book_848 ball_341 ball_340 ball_343 ,8,48.1864354712
+bag_902,train_439 train_438 blocks_117 train_619 ball_346 ball_349 ball_348 book_923 ,8,49.8065966538
+bag_859,train_844 blocks_852 horse_88 horse_89 horse_82 horse_83 horse_80 ball_916 ,8,48.7252390184
+bag_479,doll_403 doll_400 doll_436 bike_114 doll_343 doll_342 book_612 book_611 ,8,49.0816741003
+bag_170,train_342 train_345 train_344 train_347 ball_527 ball_526 ball_529 ball_528 ,8,48.1828143616
+bag_975,train_455 train_454 train_457 train_456 ball_323 ball_322 ball_321 ball_320 ,8,48.1828143616
+bag_538,doll_15 train_338 coal_33 doll_10 doll_11 blocks_194 ball_654 ball_653 ,8,49.0266920148
+bag_539,train_842 train_843 train_840 train_841 ball_652 ball_651 ball_650 ball_93 ,8,48.1828143616
+bag_624,train_250 train_259 train_258 horse_234 horse_235 horse_230 ball_1070 ball_1073 ,8,49.1455554317
+bag_966,train_993 train_994 train_995 train_996 book_114 book_115 book_116 book_117 ,8,48.1972987998
+bag_61,train_461 train_462 train_463 train_468 doll_739 ball_516 ball_517 gloves_136 ,8,49.6818803782
+bag_60,train_465 train_466 train_467 train_460 doll_738 ball_514 ball_515 gloves_23 ,8,49.6818803782
+bag_69,train_648 train_649 blocks_164 blocks_736 doll_745 gloves_133 gloves_80 gloves_82 ,8,49.9233763388
+bag_68,doll_887 blocks_162 blocks_737 train_138 train_139 gloves_61 gloves_131 gloves_130 ,8,49.9233763388
+bag_132,train_117 train_118 train_119 blocks_148 ball_530 ball_531 ball_451 ball_450 ,8,49.8029755442
+bag_579,doll_387 doll_386 bike_150 doll_830 coal_72 book_1063 book_553 ball_204 ,8,49.4068243321
+bag_344,horse_203 horse_194 bike_203 horse_209 horse_208 horse_196 ball_609 book_709 ,8,49.1017502261
+bag_786,blocks_533 bike_217 horse_869 horse_868 ball_718 ball_719 book_508 book_859 ,8,49.7627914483
+bag_5,blocks_761 blocks_762 blocks_763 horse_59 horse_58 ball_498 book_1033 gloves_118 ,8,49.5070282208
+bag_18,train_386 train_381 train_380 train_383 doll_360 ball_308 ball_305 gloves_1 ,8,49.6818803782
+bag_19,train_382 train_389 train_388 blocks_629 horse_515 ball_304 gloves_0 gloves_7 ,8,49.8073678056
+bag_964,bike_377 horse_70 horse_77 horse_76 doll_603 doll_347 book_118 book_119 ,8,49.0958924415
+bag_873,train_404 train_405 train_408 train_409 ball_352 ball_353 ball_350 ball_351 ,8,48.1828143616
+bag_650,blocks_375 book_211 book_210 blocks_373 book_219 book_218 blocks_371 doll_903 ,8,48.0093466387
+bag_714,blocks_109 train_763 train_762 train_761 book_94 book_95 book_646 book_98 ,8,49.8174599824
+bag_268,train_571 blocks_719 horse_483 horse_482 horse_481 horse_480 horse_487 ball_403 ,8,48.7252390184
+bag_140,horse_767 horse_764 bike_139 horse_762 horse_763 horse_760 ball_981 ball_980 ,8,49.0981291166
+bag_317,train_971 blocks_480 doll_806 doll_807 doll_804 doll_805 doll_808 book_711 ,8,48.7051628925
+bag_1011,book_816 book_819 book_818 horse_233 blocks_331 blocks_348 train_448 doll_742 ,8,49.3887830125
+bag_920,blocks_340 doll_763 doll_762 doll_761 doll_760 doll_767 train_934 book_1065 ,8,48.7051628925
+bag_872,train_400 train_401 train_406 train_407 ball_356 ball_357 ball_354 ball_355 ,8,48.1828143616
+bag_551,coal_62 coal_69 coal_68 horse_310 horse_317 horse_731 horse_314 doll_595 ,8,49.9728345416
+bag_688,doll_407 blocks_711 blocks_710 blocks_713 book_194 book_447 book_196 book_197 ,8,48.0093466387
+bag_767,train_210 train_217 train_216 train_215 ball_1035 ball_1034 ball_1037 ball_1036 ,8,48.1828143616
+bag_768,train_214 train_219 train_218 blocks_1 ball_1031 ball_1030 ball_1033 ball_1032 ,8,49.8029755442
+bag_58,train_395 train_392 train_393 train_390 doll_888 ball_510 ball_511 gloves_139 ,8,49.6818803782
+bag_59,train_391 train_398 train_399 train_464 doll_889 ball_512 ball_513 gloves_138 ,8,49.6818803782
+bag_57,book_879 book_878 blocks_976 train_396 train_397 train_394 ball_518 ball_519 ,8,49.8102177633
+bag_52,blocks_154 doll_645 train_697 blocks_973 train_696 gloves_89 gloves_75 gloves_77 ,8,49.9233763388
+bag_106,bike_108 horse_777 horse_776 horse_771 horse_770 horse_773 ball_449 book_1116 ,8,49.1017502261
+bag_959,doll_750 doll_751 doll_758 doll_759 bike_378 doll_350 book_1052 book_1051 ,8,49.0816741003
+bag_357,blocks_580 blocks_269 blocks_268 doll_50 book_385 book_384 book_387 book_386 ,8,48.0093466387
+bag_1008,doll_252 doll_251 doll_250 train_891 blocks_293 doll_259 doll_51 ball_132 ,8,48.701541783
+bag_429,blocks_586 doll_768 horse_550 blocks_242 horse_784 gloves_197 horse_229 ball_626 ,8,48.8369433832
+bag_423,train_502 train_501 train_500 train_507 book_883 book_1084 book_1085 book_1086 ,8,48.1972987998
+bag_516,train_855 train_854 train_857 train_856 doll_415 ball_867 ball_860 ,7,49.1818992491
+bag_515,train_851 train_850 train_853 train_852 doll_412 ball_865 ball_866 ,7,49.1818992491
+bag_518,doll_414 doll_417 doll_416 doll_419 doll_418 blocks_77 blocks_76 ,7,48.3223086342
+bag_459,train_9 train_137 train_134 train_135 horse_182 ball_936 ball_934 ,7,49.1866386962
+bag_458,train_5 train_6 train_7 train_8 horse_185 ball_933 ball_930 ,7,49.1866386962
+bag_457,train_1 train_2 train_647 train_4 horse_184 ball_247 ball_932 ,7,49.1866386962
+bag_456,train_646 train_196 train_197 train_0 horse_187 ball_245 ball_246 ,7,49.1866386962
+bag_455,train_191 train_192 train_193 train_194 horse_186 ball_243 ball_244 ,7,49.1866386962
+bag_453,horse_147 horse_412 bike_336 horse_413 train_198 ball_240 ball_241 ,7,49.1392123812
+bag_329,train_25 train_24 train_23 train_22 doll_272 book_64 book_61 ,7,49.1891414682
+bag_841,train_632 train_635 train_634 train_637 horse_953 book_56 book_57 ,7,49.1938809153
+bag_930,doll_841 blocks_209 blocks_788 doll_231 doll_230 doll_233 doll_232 ,7,48.3223086342
+bag_932,bike_356 train_625 blocks_201 ball_119 ball_114 ball_115 ball_116 ,7,49.7966324937
+bag_937,train_423 train_424 train_426 train_427 doll_70 book_445 book_930 ,7,49.1891414682
+bag_808,blocks_333 horse_44 blocks_332 doll_39 blocks_330 ball_379 ball_370 ,7,48.9986865351
+bag_806,blocks_697 blocks_698 blocks_699 doll_38 horse_124 book_620 ball_257 ,7,49.0023076447
+bag_800,bike_412 train_204 train_205 ball_157 ball_158 ball_159 ball_1026 ,7,48.1764713111
+bag_34,bike_168 blocks_771 blocks_994 horse_1 gloves_25 gloves_52 gloves_28 ,7,49.9217727354
+bag_32,bike_351 train_124 train_127 horse_9 ball_468 ball_469 gloves_21 ,7,49.6802767748
+bag_33,train_126 blocks_453 bike_169 horse_8 book_1028 gloves_26 gloves_27 ,7,49.8046458646
+bag_672,blocks_195 blocks_264 horse_161 horse_162 horse_163 horse_164 horse_165 ,7,48.3460058696
+bag_774,train_781 train_780 train_783 train_782 doll_904 book_78 book_79 ,7,49.1891414682
+bag_775,train_785 train_784 train_787 train_786 doll_722 book_1134 book_1135 ,7,49.1891414682
+bag_46,horse_884 bike_284 blocks_158 blocks_636 gloves_121 gloves_36 gloves_13 ,7,49.9217727354
+bag_967,train_997 train_998 bike_355 book_110 book_111 book_112 book_113 ,7,48.1909557493
+bag_412,train_329 train_328 blocks_344 doll_488 doll_489 horse_447 ball_582 ,7,48.7568433888
+bag_417,train_185 train_184 train_183 train_182 horse_444 ball_587 ball_586 ,7,49.1866386962
+bag_419,blocks_342 train_189 train_188 horse_442 horse_441 horse_440 ball_589 ,7,48.7663222829
+bag_556,train_275 train_274 train_277 train_276 horse_864 ball_278 book_1131 ,7,49.1902598057
+bag_557,train_279 train_278 train_499 train_498 horse_866 ball_662 ball_663 ,7,49.1866386962
+bag_555,train_271 train_270 train_273 train_272 horse_865 ball_276 ball_279 ,7,49.1866386962
+bag_200,doll_108 blocks_286 blocks_285 doll_589 doll_588 doll_587 doll_586 ,7,48.3223086342
+bag_169,train_64 train_341 train_340 train_343 horse_732 ball_525 ball_524 ,7,49.1866386962
+bag_168,train_60 train_67 train_66 train_65 horse_730 ball_523 ball_522 ,7,49.1866386962
+bag_164,doll_310 blocks_137 horse_692 horse_693 blocks_600 horse_690 doll_311 ,7,48.3365269755
+bag_219,train_352 train_353 train_350 train_356 horse_405 ball_433 ball_432 ,7,49.1866386962
+bag_218,train_52 train_53 train_50 train_51 doll_989 ball_435 ball_434 ,7,49.1818992491
+bag_1015,train_667 train_664 train_665 train_662 ball_315 doll_723 book_1097 ,7,49.1855203587
+bag_526,blocks_437 blocks_438 blocks_439 horse_954 horse_957 ball_264 ball_262 ,7,49.0034259822
+bag_523,coal_55 coal_56 coal_57 doll_863 blocks_214 doll_864 ball_266 ,7,48.6261208758
+bag_522,doll_713 coal_50 coal_51 coal_52 coal_53 coal_54 ball_269 ,7,48.6047828855
+bag_842,train_636 blocks_680 bike_368 book_54 book_55 book_52 book_53 ,7,49.8111169319
+bag_940,train_605 train_606 train_607 train_608 doll_75 ball_335 ball_337 ,7,49.1818992491
+bag_707,train_581 train_580 train_587 train_586 horse_115 book_245 book_92 ,7,49.1938809153
+bag_736,doll_702 train_228 train_229 train_226 train_227 ball_1042 ball_1043 ,7,49.1818992491
+bag_737,train_224 train_225 train_222 train_223 doll_12 ball_1044 ball_1045 ,7,49.1818992491
+bag_638,train_817 train_816 train_811 train_810 horse_828 book_1179 book_473 ,7,49.1938809153
+bag_637,train_819 train_818 train_815 train_814 horse_829 book_1177 book_1178 ,7,49.1938809153
+bag_386,train_950 train_951 train_952 train_953 doll_276 book_776 book_777 ,7,49.1891414682
+bag_385,train_954 train_955 train_956 train_957 horse_699 book_774 book_775 ,7,49.1938809153
+bag_745,blocks_363 doll_64 blocks_232 blocks_233 horse_780 book_1121 book_1120 ,7,49.0059287542
+bag_740,train_590 train_591 train_592 train_593 doll_69 book_513 book_69 ,7,49.1891414682
+bag_749,train_772 train_773 train_824 train_825 horse_639 book_1124 ball_723 ,7,49.1902598057
+bag_748,train_776 train_777 train_770 train_771 horse_638 book_1126 book_1125 ,7,49.1938809153
+bag_72,blocks_388 blocks_389 blocks_382 blocks_383 ball_475 gloves_95 gloves_92 ,7,49.6652383561
+bag_73,blocks_380 blocks_381 blocks_386 blocks_384 ball_474 gloves_91 gloves_31 ,7,49.6652383561
+bag_127,train_70 train_71 train_72 train_73 horse_210 ball_538 ball_539 ,7,49.1866386962
+bag_125,horse_217 horse_214 train_78 train_79 blocks_542 horse_215 ball_885 ,7,48.7663222829
+bag_128,train_74 train_75 train_76 train_77 horse_720 ball_536 ball_537 ,7,49.1866386962
+bag_246,doll_424 blocks_990 doll_425 doll_198 doll_181 blocks_778 doll_332 ,7,48.3223086342
+bag_563,train_728 train_727 train_726 train_725 horse_153 ball_669 ball_336 ,7,49.1866386962
+bag_564,train_724 train_723 train_722 train_721 horse_152 ball_1093 book_1158 ,7,49.1902598057
+bag_334,train_524 train_527 train_526 train_521 horse_461 ball_563 ball_562 ,7,49.1866386962
+bag_335,train_520 train_523 train_522 train_529 horse_460 book_1129 book_1128 ,7,49.1938809153
+bag_332,train_305 train_307 train_306 train_301 horse_637 ball_567 ball_566 ,7,49.1866386962
+bag_333,train_300 train_303 train_302 train_525 doll_955 ball_561 ball_560 ,7,49.1818992491
+bag_330,train_21 train_20 train_29 train_28 doll_27 ball_569 ball_568 ,7,49.1818992491
+bag_339,blocks_118 blocks_255 blocks_890 horse_463 horse_462 ball_601 ball_604 ,7,49.0034259822
+bag_237,train_912 train_913 train_914 train_915 doll_829 book_608 book_515 ,7,49.1891414682
+bag_236,train_918 train_919 train_910 train_911 doll_828 book_606 book_607 ,7,49.1891414682
+bag_235,horse_255 horse_845 horse_844 doll_189 bike_121 doll_188 gloves_158 ,7,48.5887571863
+bag_233,blocks_838 blocks_839 horse_743 horse_748 horse_749 horse_258 horse_259 ,7,48.3460058696
+bag_836,blocks_681 doll_346 blocks_689 blocks_688 gloves_170 gloves_172 ball_369 ,7,48.9944704596
+bag_29,bike_353 train_129 train_128 horse_311 ball_464 ball_465 gloves_10 ,7,49.6802767748
+bag_665,train_244 train_245 train_246 train_247 ball_197 ball_190 horse_359 ,7,49.1866386962
+bag_666,train_92 train_93 train_90 train_91 ball_192 ball_193 horse_358 ,7,49.1866386962
+bag_667,train_96 train_97 train_94 train_95 ball_198 ball_199 horse_609 ,7,49.1866386962
+bag_705,train_86 train_81 train_80 train_83 horse_119 book_241 book_931 ,7,49.1938809153
+bag_903,train_618 train_617 train_616 train_615 doll_254 book_925 book_924 ,7,49.1891414682
+bag_91,blocks_577 blocks_571 blocks_570 blocks_573 ball_265 gloves_108 gloves_6 ,7,49.6652383561
+bag_409,book_1113 doll_483 doll_480 doll_953 blocks_514 blocks_134 coal_21 ,7,48.6510799755
+bag_275,train_961 train_960 train_963 train_962 doll_838 book_726 book_725 ,7,49.1891414682
+bag_274,train_965 train_964 train_967 train_966 doll_839 book_720 book_727 ,7,49.1891414682
+bag_372,train_536 train_537 train_534 train_535 horse_471 ball_594 ball_595 ,7,49.1866386962
+bag_373,train_532 train_533 train_530 train_531 horse_476 ball_596 ball_597 ,7,49.1866386962
+bag_377,blocks_479 blocks_594 blocks_241 horse_474 horse_475 book_1092 book_1091 ,7,49.0106682013
+bag_478,blocks_703 blocks_745 doll_406 doll_437 doll_404 doll_405 doll_402 ,7,48.3223086342
+bag_172,train_569 train_568 train_561 train_560 horse_753 ball_429 book_528 ,7,49.1902598057
+bag_173,train_563 train_562 train_565 train_564 horse_751 ball_424 ball_425 ,7,49.1866386962
+bag_976,train_451 train_450 train_453 train_452 ball_329 ball_328 doll_772 ,7,49.1818992491
+bag_534,train_712 train_713 train_710 train_711 horse_439 book_1045 ball_659 ,7,49.1902598057
+bag_535,train_716 train_717 train_714 train_715 horse_436 ball_658 ball_657 ,7,49.1866386962
+bag_303,train_156 train_157 train_150 train_151 horse_498 book_300 ball_415 ,7,49.1902598057
+bag_851,bike_181 train_858 horse_665 horse_664 horse_669 ball_482 book_1049 ,7,49.1428334907
+bag_228,train_176 train_177 train_174 train_175 horse_747 book_556 book_557 ,7,49.1938809153
+bag_229,train_172 train_655 train_170 train_171 horse_740 book_882 book_551 ,7,49.1938809153
+bag_586,train_261 train_266 train_267 train_264 doll_318 ball_202 ball_203 ,7,49.1818992491
+bag_589,train_480 train_481 train_486 train_487 horse_142 ball_675 ball_674 ,7,49.1866386962
+bag_588,train_488 train_489 train_482 train_483 horse_734 ball_209 ball_483 ,7,49.1866386962
+bag_623,train_254 train_253 train_252 train_251 horse_989 book_544 ball_1071 ,7,49.1902598057
+bag_378,horse_478 horse_479 blocks_784 blocks_785 blocks_782 book_1090 book_1095 ,7,49.0106682013
+bag_395,train_886 train_887 train_884 train_885 doll_686 book_598 ball_839 ,7,49.1855203587
+bag_396,train_882 train_883 train_880 train_881 doll_687 ball_838 ball_833 ,7,49.1818992491
+bag_1012,train_449 train_446 train_447 train_444 horse_505 ball_318 ball_319 ,7,49.1866386962
+bag_887,horse_851 horse_504 horse_853 blocks_898 blocks_899 doll_358 horse_553 ,7,48.3412664225
+bag_370,train_316 train_317 train_314 train_315 horse_473 ball_590 ball_591 ,7,49.1866386962
+bag_371,train_312 train_313 train_310 train_311 horse_470 ball_592 ball_593 ,7,49.1866386962
+bag_750,train_826 train_827 train_820 train_821 horse_783 ball_722 ball_721 ,7,49.1866386962
+bag_63,blocks_569 blocks_566 blocks_567 blocks_564 book_647 gloves_16 gloves_128 ,7,49.6688594657
+bag_62,train_469 blocks_133 blocks_844 blocks_568 book_312 book_645 gloves_132 ,7,49.5517325949
+bag_64,blocks_565 blocks_562 blocks_563 blocks_560 book_640 gloves_129 gloves_124 ,7,49.6688594657
+bag_131,train_113 train_114 train_115 train_116 horse_727 ball_532 ball_533 ,7,49.1866386962
+bag_575,doll_471 doll_470 doll_905 blocks_59 blocks_58 doll_479 doll_478 ,7,48.3223086342
+bag_345,horse_191 horse_190 horse_193 horse_192 blocks_521 blocks_669 doll_8 ,7,48.3412664225
+bag_224,train_652 train_651 train_688 train_689 horse_744 book_735 book_736 ,7,49.1938809153
+bag_226,train_680 train_681 train_682 train_683 horse_745 book_739 book_599 ,7,49.1938809153
+bag_227,train_684 train_685 train_686 train_656 horse_746 book_554 book_555 ,7,49.1938809153
+bag_220,train_357 train_354 train_355 train_358 horse_404 ball_431 ball_430 ,7,49.1866386962
+bag_221,train_359 train_578 train_579 train_572 horse_841 book_730 book_731 ,7,49.1938809153
+bag_222,train_573 train_570 train_576 train_577 doll_988 book_732 book_733 ,7,49.1891414682
+bag_785,horse_640 horse_643 horse_642 blocks_531 blocks_530 horse_867 horse_863 ,7,48.3460058696
+bag_789,bike_210 blocks_240 train_693 book_435 book_434 book_433 book_432 ,7,49.8111169319
+bag_4,blocks_765 blocks_766 blocks_767 blocks_760 ball_499 gloves_111 gloves_119 ,7,49.6652383561
+bag_2,blocks_981 blocks_982 blocks_983 blocks_768 book_1037 gloves_115 gloves_114 ,7,49.6688594657
+bag_3,blocks_769 blocks_986 blocks_987 blocks_764 book_1036 gloves_113 gloves_112 ,7,49.6688594657
+bag_293,train_30 train_31 train_32 train_33 horse_906 ball_579 ball_572 ,7,49.1866386962
+bag_292,doll_194 train_34 train_35 train_36 train_37 book_120 ball_578 ,7,49.1855203587
+bag_296,train_372 train_373 train_374 train_375 horse_907 ball_571 ball_576 ,7,49.1866386962
+bag_299,train_553 train_554 train_555 train_556 doll_725 book_305 book_656 ,7,49.1891414682
+bag_12,blocks_556 blocks_555 blocks_554 blocks_940 ball_69 gloves_110 gloves_66 ,7,49.6652383561
+bag_652,coal_2 coal_3 coal_0 coal_1 doll_901 doll_900 doll_907 ,7,48.2796326537
+bag_710,blocks_187 blocks_997 horse_626 horse_625 horse_624 horse_623 horse_622 ,7,48.3460058696
+bag_715,train_760 train_767 train_766 train_765 book_99 horse_807 ball_730 ,7,49.1902598057
+bag_716,train_764 train_833 train_832 train_831 horse_806 book_1117 book_1114 ,7,49.1938809153
+bag_717,train_830 train_837 train_836 train_835 horse_805 ball_733 ball_734 ,7,49.1866386962
+bag_87,blocks_961 blocks_924 blocks_496 blocks_534 ball_1096 gloves_134 gloves_137 ,7,49.6652383561
+bag_260,train_366 train_365 train_874 train_363 horse_976 ball_547 ball_546 ,7,49.1866386962
+bag_261,train_362 train_361 train_360 train_873 horse_975 ball_545 ball_544 ,7,49.1866386962
+bag_263,train_549 train_548 train_547 train_546 horse_973 ball_542 ball_541 ,7,49.1866386962
+bag_265,train_542 train_541 train_540 train_149 horse_971 ball_549 ball_548 ,7,49.1866386962
+bag_267,train_140 train_147 train_146 train_145 horse_489 book_283 ball_402 ,7,49.1902598057
+bag_149,train_932 train_933 train_930 train_931 horse_675 ball_23 ball_22 ,7,49.1866386962
+bag_148,horse_584 horse_585 horse_588 horse_589 blocks_607 blocks_609 horse_674 ,7,48.3460058696
+bag_508,train_148 bike_349 blocks_136 book_746 book_741 book_740 book_743 ,7,49.8111169319
+bag_503,train_703 train_702 train_705 train_704 horse_426 ball_642 ball_643 ,7,49.1866386962
+bag_319,blocks_630 horse_925 horse_926 horse_927 horse_256 horse_921 blocks_482 ,7,48.3460058696
+bag_315,train_979 train_976 train_977 train_974 doll_800 book_715 book_712 ,7,49.1891414682
+bag_316,train_975 train_972 train_973 train_970 doll_801 book_713 book_710 ,7,49.1891414682
+bag_875,train_620 train_621 train_626 train_627 doll_740 book_21 book_20 ,7,49.1891414682
+bag_874,train_628 train_629 train_622 train_623 doll_741 book_23 book_22 ,7,49.1891414682
+bag_921,doll_765 doll_764 doll_769 train_935 blocks_494 train_938 book_840 ,7,48.7557250512
+bag_559,train_492 train_495 train_494 train_497 horse_860 ball_661 ball_666 ,7,49.1866386962
+bag_613,doll_915 doll_916 doll_917 blocks_166 blocks_606 doll_941 doll_940 ,7,48.3223086342
+bag_598,train_861 train_862 train_863 train_864 doll_666 book_1168 book_1167 ,7,49.1891414682
+bag_592,train_735 train_736 train_737 train_738 horse_141 ball_670 ball_673 ,7,49.1866386962
+bag_591,train_731 train_732 train_733 train_734 horse_416 ball_676 ball_671 ,7,49.1866386962
+bag_811,train_796 train_797 train_794 train_795 horse_43 ball_1 ball_2 ,7,49.1866386962
+bag_810,train_792 train_793 train_790 train_791 doll_420 ball_9 ball_0 ,7,49.1818992491
+bag_1007,blocks_290 horse_237 blocks_291 doll_257 doll_256 doll_255 doll_253 ,7,48.3270480813
+bag_51,bike_283 doll_720 blocks_150 blocks_155 gloves_86 gloves_87 gloves_88 ,7,49.9170332883
+bag_1014,train_441 blocks_610 train_3 blocks_612 ball_316 ball_317 ball_314 ,7,49.4237423955
+bag_101,train_104 train_103 train_102 train_101 horse_775 ball_445 ball_442 ,7,49.1866386962
+bag_100,train_108 train_107 train_106 train_105 horse_778 ball_447 ball_444 ,7,49.1866386962
+bag_958,blocks_747 blocks_744 doll_757 doll_754 doll_755 doll_752 doll_753 ,7,48.3223086342
+bag_462,train_514 train_515 train_516 train_517 doll_74 ball_638 ball_631 ,7,49.1818992491
+bag_463,train_510 train_511 train_512 train_513 doll_985 ball_630 ball_633 ,7,49.1818992491
+bag_468,train_982 blocks_31 train_980 doll_164 horse_986 horse_987 ball_636 ,7,48.7615828358
+bag_350,train_941 train_940 train_947 train_946 horse_681 book_700 book_703 ,7,49.1938809153
+bag_196,train_906 train_905 train_904 train_903 doll_859 book_524 book_527 ,7,49.1891414682
+bag_197,train_902 train_901 train_900 train_909 doll_858 book_526 book_529 ,7,49.1891414682
+bag_798,bike_411 blocks_90 gloves_164 gloves_165 gloves_168 doll_33 ball_152 ,7,49.2467006705
+bag_498,train_291 train_297 train_296 train_295 ball_254 horse_429 book_303 ,7,49.1902598057
+bag_496,train_299 train_298 bike_196 ball_252 ball_251 ball_250 ball_256 ,7,48.1764713111
+bag_628,train_744 train_747 train_746 train_741 doll_309 ball_217 ball_216 ,7,49.1818992491
+bag_977,train_675 train_674 train_677 train_676 horse_739 book_18 book_19 ,7,49.1938809153
+bag_629,train_740 train_743 train_742 train_749 doll_308 ball_215 ball_214 ,7,49.1818992491
+bag_978,train_671 train_670 train_673 train_672 horse_738 book_12 book_13 ,7,49.1938809153
+bag_649,doll_677 doll_676 blocks_377 blocks_376 blocks_876 book_213 book_212 ,7,49.0011893071
+bag_642,blocks_292 blocks_132 blocks_875 horse_74 horse_842 book_470 book_477 ,7,49.0106682013
+bag_397,train_888 train_889 blocks_868 doll_680 doll_681 doll_682 ball_832 ,7,48.7521039417
+bag_422,blocks_792 horse_227 horse_226 train_509 book_885 horse_225 train_503 ,7,48.7699433924
+bag_421,blocks_794 blocks_791 horse_221 blocks_793 horse_996 book_884 book_74 ,7,49.0106682013
+bag_425,doll_766 blocks_585 doll_315 book_559 blocks_311 blocks_310 book_888 ,7,49.0011893071
+bag_155,blocks_458 blocks_459 horse_500 horse_857 doll_312 horse_850 horse_507 ,7,48.3412664225
+bag_259,train_877 train_876 train_875 train_367 doll_747 book_1022 book_1023 ,7,49.1891414682
+bag_258,train_47 train_46 train_49 train_48 horse_977 book_1025 book_285 ,7,49.1938809153
+bag_150,train_936 train_937 blocks_608 horse_676 doll_319 doll_846 ball_21 ,7,48.7568433888
+bag_257,train_43 train_42 train_45 train_44 doll_337 book_1026 book_1027 ,7,49.1891414682
+bag_517,blocks_306 blocks_863 train_142 blocks_197 ball_861 ball_862 ,6,49.0445092467
+bag_510,bike_387 bike_386 ball_798 ball_799 ball_796 ball_797 ,6,48.1701282606
+bag_511,bike_381 bike_380 ball_794 ball_795 ball_792 ball_793 ,6,48.1701282606
+bag_694,bike_265 blocks_188 doll_939 doll_936 doll_937 book_1003 ,6,48.7493820007
+bag_690,bike_105 book_626 bike_104 gloves_154 book_627 book_624 ,6,49.6804928844
+bag_454,train_132 blocks_418 train_133 train_190 doll_694 ball_242 ,6,48.8026661004
+bag_452,coal_35 coal_32 train_339 coal_30 coal_31 horse_146 ,6,48.3349342595
+bag_451,train_331 train_332 train_333 coal_37 coal_34 ball_249 ,6,48.7813281101
+bag_321,blocks_364 bike_300 blocks_584 book_390 book_391 book_396 ,6,49.4282626736
+bag_322,blocks_365 bike_303 blocks_366 book_397 book_394 book_395 ,6,49.4282626736
+bag_935,doll_79 blocks_854 train_428 train_420 train_421 book_444 ,6,48.8062872099
+bag_606,bike_244 bike_245 book_468 book_469 ball_858 ball_855 ,6,48.1773704797
+bag_607,bike_246 bike_247 ball_854 ball_857 ball_856 ball_851 ,6,48.1701282606
+bag_605,bike_242 bike_243 book_464 book_465 book_466 book_467 ,6,48.1846126988
+bag_38,bike_165 bike_164 horse_4 book_123 book_122 gloves_76 ,6,49.6811759433
+bag_39,bike_167 bike_166 horse_7 book_129 book_128 gloves_71 ,6,49.6811759433
+bag_36,bike_161 bike_160 horse_2 book_124 book_127 gloves_55 ,6,49.6811759433
+bag_37,bike_163 bike_162 horse_5 book_126 book_121 gloves_74 ,6,49.6811759433
+bag_548,blocks_415 blocks_412 train_195 blocks_410 book_72 ball_271 ,6,49.0481303563
+bag_679,train_800 train_801 blocks_926 blocks_927 book_88 gloves_157 ,6,48.9274704689
+bag_49,coal_132 doll_894 doll_897 gloves_67 gloves_11 gloves_81 ,6,49.7512964188
+bag_48,bike_287 bike_280 doll_727 ball_688 ball_689 gloves_117 ,6,49.6691942772
+bag_41,bike_343 bike_342 horse_29 book_659 book_658 gloves_70 ,6,49.6811759433
+bag_40,bike_341 bike_340 horse_28 book_309 book_308 gloves_54 ,6,49.6811759433
+bag_47,bike_285 bike_286 horse_883 book_651 book_650 gloves_69 ,6,49.6811759433
+bag_44,bike_299 bike_298 horse_570 book_653 book_652 gloves_30 ,6,49.6811759433
+bag_118,doll_44 blocks_279 doll_47 blocks_276 doll_46 blocks_277 ,6,49.9930319755
+bag_119,doll_41 blocks_274 doll_40 blocks_275 doll_43 blocks_272 ,6,49.9930319755
+bag_112,train_922 train_927 train_926 blocks_895 ball_737 doll_873 ,6,48.8026661004
+bag_117,doll_298 blocks_37 blocks_520 doll_45 horse_617 blocks_278 ,6,49.9977714226
+bag_115,blocks_786 blocks_787 blocks_522 horse_611 doll_293 doll_292 ,6,49.9977714226
+bag_908,blocks_497 blocks_203 bike_439 book_36 book_37 book_38 ,6,49.4282626736
+bag_718,train_834 train_839 train_838 blocks_935 horse_804 ball_735 ,6,48.8074055474
+bag_699,bike_323 bike_322 ball_188 ball_1059 ball_1058 ball_1057 ,6,48.1701282606
+bag_411,coal_24 coal_27 train_324 coal_29 coal_28 doll_959 ,6,48.3301948124
+bag_410,blocks_347 coal_20 coal_23 coal_22 train_327 ball_583 ,6,48.6766830344
+bag_552,train_425 blocks_427 blocks_426 blocks_425 ball_272 ball_275 ,6,49.0445092467
+bag_418,train_181 train_180 bike_218 horse_443 ball_585 ball_584 ,6,49.1802956457
+bag_202,horse_42 blocks_289 blocks_288 blocks_532 doll_322 doll_321 ,6,49.9977714226
+bag_365,coal_160 book_961 book_960 book_963 book_962 book_965 ,6,48.2706831356
+bag_364,coal_161 ball_824 ball_825 ball_826 ball_827 book_872 ,6,48.2561986975
+bag_362,coal_163 ball_829 ball_820 ball_821 ball_822 ball_823 ,6,48.2525775879
+bag_167,blocks_551 doll_928 train_63 train_62 train_61 ball_520 ,6,48.8026661004
+bag_708,train_584 train_589 train_588 blocks_909 horse_114 book_93 ,6,48.811026657
+bag_524,doll_865 doll_714 doll_715 blocks_430 blocks_431 blocks_432 ,6,49.9930319755
+bag_843,train_939 bike_459 train_859 book_50 book_51 horse_955 ,6,49.1875378648
+bag_482,bike_110 bike_111 ball_819 book_345 book_344 book_347 ,6,48.1809915892
+bag_483,bike_112 bike_113 book_614 book_233 book_248 book_249 ,6,48.1846126988
+bag_706,train_82 train_89 train_88 blocks_297 horse_118 book_244 ,6,48.811026657
+bag_387,train_958 train_959 bike_8 doll_54 book_770 book_771 ,6,49.1827984177
+bag_779,blocks_910 bike_473 horse_797 horse_796 horse_794 book_1132 ,6,48.7636003419
+bag_121,horse_615 blocks_99 blocks_98 blocks_97 doll_49 doll_48 ,6,49.9977714226
+bag_243,doll_183 blocks_996 doll_330 blocks_995 doll_73 blocks_770 ,6,49.9930319755
+bag_245,blocks_993 doll_422 blocks_992 doll_423 blocks_775 doll_331 ,6,49.9930319755
+bag_686,blocks_190 bike_268 horse_831 horse_837 horse_834 book_1108 ,6,48.7636003419
+bag_336,train_528 blocks_254 blocks_441 blocks_116 book_1123 book_1122 ,6,49.0517514658
+bag_445,ball_800 ball_801 bike_23 book_146 bike_22 book_907 ,6,48.1773704797
+bag_238,train_916 train_917 bike_120 doll_824 book_609 ball_185 ,6,49.1791773082
+bag_230,train_654 train_178 train_179 blocks_834 horse_741 book_552 ,6,48.811026657
+bag_981,bike_141 bike_140 book_16 book_17 book_14 book_15 ,6,48.1846126988
+bag_837,blocks_270 train_411 train_410 train_413 ball_368 horse_958 ,6,48.8074055474
+bag_28,bike_352 bike_58 doll_361 ball_462 ball_463 gloves_12 ,6,49.6691942772
+bag_701,blocks_413 blocks_35 blocks_362 train_239 ball_1052 ball_1051 ,6,49.0445092467
+bag_700,bike_321 bike_320 ball_1056 ball_1055 ball_1054 ball_1053 ,6,48.1701282606
+bag_905,train_610 blocks_114 blocks_930 blocks_113 book_32 book_33 ,6,49.0517514658
+bag_909,bike_438 bike_437 book_39 book_920 book_922 ball_752 ,6,48.1809915892
+bag_858,bike_232 doll_782 horse_48 blocks_724 horse_49 ball_915 ,6,48.7552397853
+bag_90,doll_267 blocks_579 doll_264 blocks_575 blocks_574 doll_265 ,6,49.9930319755
+bag_92,blocks_572 doll_301 horse_843 blocks_440 doll_300 blocks_892 ,6,49.9977714226
+bag_93,bike_30 bike_31 doll_303 ball_509 ball_508 gloves_8 ,6,49.6691942772
+bag_96,bike_36 bike_37 ball_507 ball_506 ball_505 ball_504 ,6,48.1701282606
+bag_99,blocks_172 blocks_175 blocks_174 train_109 book_1007 ball_446 ,6,49.0481303563
+bag_276,bike_297 blocks_374 doll_837 doll_835 doll_834 book_724 ,6,48.7493820007
+bag_174,train_567 train_566 blocks_513 train_583 horse_757 ball_426 ,6,48.8074055474
+bag_171,train_346 train_349 train_348 blocks_720 horse_735 ball_428 ,6,48.8074055474
+bag_862,blocks_904 blocks_850 blocks_842 doll_965 doll_964 doll_967 ,6,49.9930319755
+bag_866,blocks_725 blocks_146 train_849 blocks_147 book_3 ball_176 ,6,49.0481303563
+bag_300,train_557 train_558 train_559 blocks_100 doll_724 book_307 ,6,48.8062872099
+bag_952,bike_67 bike_66 ball_740 ball_743 ball_742 ball_749 ,6,48.1701282606
+bag_698,bike_325 bike_324 ball_187 ball_186 ball_181 ball_189 ,6,48.1701282606
+bag_581,coal_70 bike_153 coal_76 coal_77 ball_205 ball_206 ,6,49.0495731327
+bag_582,coal_74 coal_75 bike_406 coal_78 ball_207 ball_200 ,6,49.0495731327
+bag_585,blocks_284 train_262 train_263 train_260 doll_636 ball_201 ,6,48.8026661004
+bag_587,train_265 train_268 train_269 blocks_972 doll_630 ball_208 ,6,48.8026661004
+bag_622,blocks_576 train_257 train_256 train_255 horse_988 ball_1078 ,6,48.8074055474
+bag_770,blocks_613 blocks_874 blocks_9 train_290 ball_1038 book_247 ,6,49.0481303563
+bag_753,bike_202 blocks_907 horse_632 horse_633 horse_635 ball_720 ,6,48.7599792324
+bag_67,bike_29 bike_28 horse_389 ball_473 ball_472 gloves_63 ,6,49.6739337243
+bag_130,horse_721 blocks_529 train_110 train_111 train_112 ball_535 ,6,48.8074055474
+bag_616,coal_87 book_682 book_683 book_684 book_685 book_686 ,6,48.2706831356
+bag_571,blocks_975 blocks_974 train_878 doll_653 horse_524 doll_651 ,6,48.37761024
+bag_342,bike_205 blocks_257 horse_207 horse_206 horse_201 ball_606 ,6,48.7599792324
+bag_476,blocks_705 blocks_548 doll_344 train_928 doll_408 doll_409 ,6,48.3728707929
+bag_181,train_167 train_166 train_161 train_160 horse_938 gloves_185 ,6,48.6867456601
+bag_183,train_168 train_699 train_698 blocks_801 doll_771 ball_611 ,6,48.8026661004
+bag_182,train_163 train_162 blocks_722 train_169 doll_329 ball_612 ,6,48.8026661004
+bag_225,blocks_338 train_650 blocks_128 blocks_129 book_737 book_738 ,6,49.0517514658
+bag_223,train_574 train_575 train_121 blocks_929 horse_847 book_734 ,6,48.811026657
+bag_788,bike_213 bike_212 book_439 book_438 book_437 book_436 ,6,48.1846126988
+bag_1,horse_549 blocks_515 blocks_949 doll_789 blocks_980 doll_788 ,6,49.9977714226
+bag_295,train_379 blocks_648 train_370 train_371 doll_728 ball_570 ,6,48.8026661004
+bag_294,train_38 train_39 blocks_379 train_378 doll_899 ball_573 ,6,48.8026661004
+bag_297,train_376 train_377 bike_230 doll_895 ball_577 ball_574 ,6,49.1755561986
+bag_298,blocks_378 train_550 train_551 train_552 doll_726 ball_575 ,6,48.8026661004
+bag_965,blocks_435 doll_710 train_990 train_991 train_992 book_223 ,6,48.8062872099
+bag_651,blocks_370 coal_6 coal_7 coal_4 coal_5 doll_902 ,6,49.950355995
+bag_654,coal_98 book_691 book_690 book_697 book_696 book_695 ,6,48.2706831356
+bag_913,bike_430 blocks_932 horse_536 horse_535 horse_534 ball_755 ,6,48.7599792324
+bag_436,coal_148 book_585 book_584 book_589 book_147 ball_808 ,6,48.2670620261
+bag_264,train_545 bike_346 train_543 horse_972 ball_540 book_1021 ,6,49.1839167552
+bag_509,bike_385 bike_384 book_742 book_749 book_748 book_902 ,6,48.1846126988
+bag_502,bike_191 train_701 train_700 horse_427 ball_640 ball_641 ,6,49.1802956457
+bag_504,train_707 train_706 bike_344 horse_421 ball_928 book_745 ,6,49.1839167552
+bag_507,blocks_622 horse_423 horse_422 bike_193 doll_667 book_747 ,6,48.7588608949
+bag_318,doll_809 bike_306 horse_252 blocks_483 doll_774 book_718 ,6,48.7541214478
+bag_314,blocks_674 blocks_675 blocks_908 train_978 book_717 book_714 ,6,49.0517514658
+bag_877,bike_429 bike_424 book_25 book_24 book_73 book_29 ,6,48.1846126988
+bag_876,train_624 train_929 bike_428 doll_743 book_27 book_26 ,6,49.1827984177
+bag_881,bike_423 blocks_727 horse_509 horse_858 horse_859 ball_764 ,6,48.7599792324
+bag_558,blocks_220 train_491 train_490 train_493 horse_861 ball_660 ,6,48.8074055474
+bag_599,train_865 train_866 train_867 blocks_944 doll_664 book_1166 ,6,48.8062872099
+bag_597,blocks_633 train_868 train_869 train_860 horse_455 book_1169 ,6,48.811026657
+bag_593,train_739 blocks_368 blocks_369 horse_410 horse_411 horse_144 ,6,48.3870891342
+bag_590,train_484 train_485 blocks_309 train_730 horse_143 ball_677 ,6,48.8074055474
+bag_819,bike_449 blocks_481 horse_659 horse_656 horse_657 ball_705 ,6,48.7599792324
+bag_815,bike_445 bike_442 ball_7 book_49 book_48 book_43 ,6,48.1809915892
+bag_814,bike_447 bike_444 ball_3 ball_4 ball_5 ball_6 ,6,48.1701282606
+bag_550,coal_64 coal_67 coal_66 coal_61 coal_60 coal_63 ,6,49.9290180048
+bag_969,blocks_252 doll_351 blocks_664 doll_538 doll_539 blocks_667 ,6,49.9930319755
+bag_766,blocks_872 train_213 train_212 train_211 horse_876 ball_708 ,6,48.8074055474
+bag_50,bike_281 bike_282 doll_893 ball_680 ball_681 gloves_83 ,6,49.6691942772
+bag_102,train_100 blocks_399 blocks_398 blocks_390 ball_443 ball_440 ,6,49.0445092467
+bag_351,train_945 train_944 blocks_640 train_949 horse_680 book_702 ,6,48.811026657
+bag_355,blocks_797 train_895 train_897 train_896 book_706 doll_52 ,6,48.8062872099
+bag_951,bike_69 bike_68 ball_744 ball_747 ball_746 ball_741 ,6,48.1701282606
+bag_190,bike_122 blocks_50 horse_931 horse_930 horse_937 book_1072 ,6,48.7636003419
+bag_195,blocks_56 doll_325 doll_324 horse_736 blocks_642 train_907 ,6,48.37761024
+bag_217,train_57 train_54 bike_59 horse_406 ball_437 ball_436 ,6,49.1802956457
+bag_216,blocks_353 train_58 train_59 train_56 horse_407 ball_438 ,6,48.8074055474
+bag_1016,train_663 train_660 train_661 blocks_614 horse_305 book_1096 ,6,48.811026657
+bag_153,blocks_655 blocks_8 blocks_308 horse_46 doll_598 doll_599 ,6,49.9977714226
+bag_241,blocks_323 blocks_69 doll_428 doll_429 doll_190 blocks_773 ,6,49.9930319755
+bag_799,bike_410 bike_413 ball_153 ball_154 ball_155 ball_156 ,6,48.1701282606
+bag_499,train_294 train_544 blocks_151 train_709 horse_428 ball_644 ,6,48.8074055474
+bag_854,bike_239 bike_238 book_416 book_411 book_410 book_413 ,6,48.1846126988
+bag_490,blocks_226 bike_331 blocks_671 book_1017 book_1015 book_306 ,6,49.4282626736
+bag_288,coal_102 ball_11 ball_16 ball_17 ball_14 ball_15 ,6,48.2525775879
+bag_287,coal_103 ball_18 ball_19 ball_12 ball_13 ball_10 ,6,48.2525775879
+bag_284,train_173 blocks_709 blocks_707 doll_128 doll_121 doll_120 ,6,48.3728707929
+bag_725,bike_271 bike_270 book_454 book_457 book_456 book_187 ,6,48.1846126988
+bag_724,bike_492 blocks_358 blocks_991 book_453 book_452 book_455 ,6,49.4282626736
+bag_727,bike_275 bike_274 book_183 book_182 book_181 book_180 ,6,48.1846126988
+bag_723,bike_490 bike_493 book_459 book_458 book_451 book_450 ,6,48.1846126988
+bag_369,coal_16 coal_17 coal_10 coal_11 coal_12 coal_13 ,6,49.9290180048
+bag_512,bike_383 bike_382 ball_790 ball_791 doll_411 ,5,49.1692131481
+bag_513,bike_389 bike_388 doll_410 book_221 ball_864 ,5,49.1728342576
+bag_697,bike_327 bike_326 ball_817 doll_65 ball_818 ,5,49.1692131481
+bag_691,bike_103 bike_102 book_625 doll_608 book_622 ,5,49.1764553672
+bag_519,blocks_71 blocks_70 blocks_73 blocks_72 ball_863 ,5,48.665276098
+bag_778,blocks_914 blocks_913 blocks_912 blocks_911 book_1137 ,5,48.6688972075
+bag_450,train_335 train_336 train_337 train_330 coal_36 ,5,48.506740037
+bag_922,bike_266 bike_267 horse_60 book_841 ball_938 ,5,49.1775737047
+bag_603,bike_248 bike_249 horse_529 book_460 book_461 ,5,49.1811948143
+bag_600,blocks_945 blocks_946 blocks_947 blocks_942 book_1165 ,5,48.6688972075
+bag_601,blocks_943 blocks_328 blocks_638 blocks_639 book_1164 ,5,48.6688972075
+bag_604,bike_240 bike_241 doll_452 book_462 book_463 ,5,49.1764553672
+bag_608,blocks_238 blocks_44 blocks_46 blocks_47 ball_850 ,5,48.665276098
+bag_609,blocks_40 blocks_41 blocks_42 blocks_43 ball_853 ,5,48.665276098
+bag_848,bike_456 bike_187 horse_660 ball_776 ball_777 ,5,49.1739525952
+bag_849,bike_185 bike_184 horse_667 ball_770 ball_771 ,5,49.1739525952
+bag_804,ball_1029 blocks_339 blocks_690 blocks_691 blocks_692 ,5,48.665276098
+bag_805,blocks_693 blocks_694 blocks_695 blocks_696 book_623 ,5,48.6688972075
+bag_776,train_789 train_788 blocks_599 doll_431 blocks_919 ,5,48.4234329516
+bag_777,blocks_918 blocks_917 blocks_916 blocks_915 book_1136 ,5,48.6688972075
+bag_983,bike_145 bike_144 horse_555 book_1197 book_1194 ,5,49.1811948143
+bag_993,blocks_758 blocks_751 blocks_750 blocks_753 book_145 ,5,48.6688972075
+bag_990,bike_70 bike_71 doll_338 book_1040 book_1041 ,5,49.1764553672
+bag_416,blocks_465 blocks_464 train_187 train_186 horse_445 ,5,48.4281723987
+bag_415,blocks_461 blocks_460 blocks_467 blocks_466 ball_580 ,5,48.665276098
+bag_414,blocks_469 blocks_468 blocks_463 blocks_462 ball_581 ,5,48.665276098
+bag_553,blocks_424 blocks_423 blocks_422 blocks_421 ball_274 ,5,48.665276098
+bag_554,blocks_420 blocks_429 blocks_428 blocks_221 ball_277 ,5,48.665276098
+bag_204,coal_122 ball_39 doll_984 ball_554 ball_555 ,5,49.2516624754
+bag_367,train_12 train_13 train_10 train_11 coal_14 ,5,48.506740037
+bag_166,doll_929 train_69 train_68 blocks_553 blocks_552 ,5,48.4234329516
+bag_948,bike_158 bike_159 horse_523 book_1180 book_1183 ,5,49.1811948143
+bag_531,blocks_592 blocks_591 blocks_210 blocks_590 ball_261 ,5,48.665276098
+bag_999,bike_367 bike_366 doll_781 book_106 book_105 ,5,49.1764553672
+bag_529,train_280 train_281 train_282 train_283 coal_39 ,5,48.506740037
+bag_528,train_289 train_284 train_285 train_287 coal_38 ,5,48.506740037
+bag_527,bike_264 blocks_216 train_288 horse_956 ball_263 ,5,48.8010624969
+bag_525,blocks_433 blocks_434 blocks_215 blocks_436 ball_267 ,5,48.665276098
+bag_489,bike_194 bike_330 book_1011 doll_484 book_1010 ,5,49.1764553672
+bag_844,bike_458 bike_451 doll_341 book_58 book_59 ,5,49.1764553672
+bag_845,bike_450 bike_453 horse_663 book_1042 ball_489 ,5,49.1775737047
+bag_846,bike_452 bike_455 horse_662 ball_778 ball_779 ,5,49.1739525952
+bag_847,bike_454 bike_457 horse_661 ball_774 ball_775 ,5,49.1739525952
+bag_485,train_364 bike_279 coal_49 coal_48 book_1018 ,5,48.7786061691
+bag_487,bike_335 coal_42 coal_41 coal_40 gloves_176 ,5,48.5496800966
+bag_945,bike_152 bike_401 horse_520 book_1188 book_1185 ,5,49.1811948143
+bag_944,bike_402 bike_151 doll_348 book_934 book_1189 ,5,49.1764553672
+bag_947,bike_156 bike_157 horse_522 book_1186 book_1181 ,5,49.1811948143
+bag_946,bike_154 bike_155 horse_521 book_1184 book_1187 ,5,49.1811948143
+bag_949,bike_408 bike_409 horse_526 book_1182 ball_745 ,5,49.1775737047
+bag_738,train_220 train_221 blocks_862 blocks_96 doll_307 ,5,48.4234329516
+bag_639,train_813 train_812 blocks_953 blocks_952 horse_824 ,5,48.4281723987
+bag_384,blocks_650 blocks_265 blocks_652 blocks_653 book_779 ,5,48.6688972075
+bag_383,blocks_878 blocks_879 blocks_656 blocks_657 book_778 ,5,48.6688972075
+bag_382,blocks_658 blocks_659 blocks_304 blocks_877 ball_618 ,5,48.665276098
+bag_381,blocks_456 blocks_871 blocks_300 blocks_301 ball_619 ,5,48.665276098
+bag_389,bike_0 bike_1 horse_967 book_772 book_773 ,5,49.1811948143
+bag_960,bike_379 doll_605 bike_370 book_1050 ball_924 ,5,49.1728342576
+bag_747,blocks_234 blocks_235 train_774 train_775 horse_782 ,5,48.4281723987
+bag_746,blocks_230 blocks_231 train_778 train_779 horse_781 ,5,48.4281723987
+bag_741,train_598 train_599 blocks_211 blocks_212 doll_68 ,5,48.4234329516
+bag_122,blocks_95 blocks_94 blocks_93 blocks_92 ball_57 ,5,48.665276098
+bag_126,blocks_544 blocks_545 blocks_546 blocks_547 ball_889 ,5,48.665276098
+bag_129,blocks_735 blocks_45 blocks_452 blocks_447 ball_534 ,5,48.665276098
+bag_562,blocks_287 bike_211 train_729 horse_150 ball_668 ,5,48.8010624969
+bag_561,blocks_283 blocks_282 blocks_281 blocks_280 ball_665 ,5,48.665276098
+bag_560,train_496 bike_215 blocks_191 horse_151 ball_664 ,5,48.8010624969
+bag_566,blocks_356 blocks_351 blocks_350 blocks_601 book_1159 ,5,48.6688972075
+bag_565,train_720 train_604 blocks_225 blocks_357 horse_155 ,5,48.4281723987
+bag_682,bike_482 bike_483 horse_839 book_1106 book_1101 ,5,49.1811948143
+bag_683,bike_480 bike_481 horse_832 book_1100 book_1103 ,5,49.1811948143
+bag_684,bike_486 bike_487 horse_833 book_1102 book_1109 ,5,49.1811948143
+bag_337,blocks_443 blocks_442 blocks_445 blocks_444 book_1127 ,5,48.6688972075
+bag_447,bike_20 bike_27 book_909 book_908 doll_507 ,5,49.1764553672
+bag_338,blocks_111 blocks_110 blocks_449 blocks_119 book_1019 ,5,48.6688972075
+bag_232,blocks_830 blocks_831 blocks_832 blocks_833 book_558 ,5,48.6688972075
+bag_989,bike_76 bike_77 doll_775 book_140 book_537 ,5,49.1764553672
+bag_835,blocks_685 blocks_684 blocks_683 blocks_682 book_47 ,5,48.6688972075
+bag_988,bike_74 bike_75 horse_880 book_414 book_417 ,5,49.1811948143
+bag_850,bike_183 bike_182 horse_666 ball_772 ball_773 ,5,49.1739525952
+bag_907,blocks_260 blocks_263 blocks_262 blocks_448 book_35 ,5,48.6688972075
+bag_906,blocks_112 blocks_267 blocks_266 blocks_261 book_34 ,5,48.6688972075
+bag_757,bike_466 bike_467 horse_810 book_428 book_429 ,5,49.1811948143
+bag_996,coal_130 ball_484 ball_485 doll_352 book_530 ,5,49.2552835849
+bag_997,bike_363 bike_362 book_531 doll_787 book_109 ,5,49.1764553672
+bag_94,bike_32 bike_33 doll_302 ball_503 ball_502 ,5,49.1692131481
+bag_95,bike_34 bike_35 doll_305 ball_501 ball_500 ,5,49.1692131481
+bag_97,bike_38 bike_39 horse_779 book_1004 book_1005 ,5,49.1811948143
+bag_98,blocks_893 blocks_171 blocks_170 blocks_173 book_1006 ,5,48.6688972075
+bag_273,blocks_825 blocks_824 train_969 train_968 doll_770 ,5,48.4234329516
+bag_272,blocks_821 blocks_820 blocks_827 blocks_826 book_721 ,5,48.6688972075
+bag_271,blocks_829 blocks_828 blocks_823 blocks_822 book_722 ,5,48.6688972075
+bag_277,bike_296 bike_295 doll_833 book_729 book_728 ,5,49.1764553672
+bag_278,bike_294 bike_293 doll_832 book_899 book_898 ,5,49.1764553672
+bag_376,blocks_472 blocks_473 blocks_243 blocks_478 ball_599 ,5,48.665276098
+bag_374,train_538 train_539 blocks_474 blocks_475 horse_477 ,5,48.4281723987
+bag_375,blocks_476 blocks_477 blocks_470 blocks_471 ball_598 ,5,48.665276098
+bag_178,bike_11 bike_16 horse_249 ball_423 ball_613 ,5,49.1739525952
+bag_176,bike_19 bike_12 horse_759 ball_427 ball_420 ,5,49.1739525952
+bag_177,bike_13 bike_10 horse_758 ball_421 ball_422 ,5,49.1739525952
+bag_992,blocks_955 blocks_500 blocks_501 blocks_759 book_1044 ,5,48.6688972075
+bag_867,blocks_52 blocks_140 blocks_141 blocks_142 ball_177 ,5,48.665276098
+bag_536,blocks_229 blocks_228 blocks_618 blocks_619 ball_656 ,5,48.665276098
+bag_530,blocks_329 blocks_168 blocks_217 blocks_593 ball_260 ,5,48.665276098
+bag_533,train_718 train_719 blocks_298 blocks_595 horse_438 ,5,48.4281723987
+bag_1020,blocks_508 blocks_509 blocks_510 horse_729 horse_306 ,5,45.0046373195
+bag_472,bike_394 bike_395 horse_983 book_754 book_755 ,5,49.1811948143
+bag_879,bike_427 bike_420 doll_746 ball_768 ball_767 ,5,49.1692131481
+bag_878,bike_425 bike_426 book_28 doll_744 ball_769 ,5,49.1728342576
+bag_309,train_326 blocks_587 train_325 blocks_360 doll_32 ,5,48.4234329516
+bag_306,blocks_55 blocks_54 blocks_588 blocks_487 ball_416 ,5,48.665276098
+bag_304,train_152 train_153 blocks_485 blocks_53 horse_499 ,5,48.4281723987
+bag_302,blocks_106 blocks_107 train_154 train_155 doll_892 ,5,48.4234329516
+bag_301,blocks_101 blocks_102 train_158 train_159 doll_721 ,5,48.4234329516
+bag_980,bike_143 bike_142 doll_359 book_10 book_11 ,5,49.1764553672
+bag_956,blocks_222 blocks_748 blocks_749 blocks_742 book_1054 ,5,48.6688972075
+bag_957,blocks_743 blocks_740 blocks_741 blocks_746 book_1053 ,5,48.6688972075
+bag_954,bike_63 bike_62 doll_609 book_1058 book_1057 ,5,49.1764553672
+bag_955,bike_61 bike_60 doll_756 book_1056 book_1055 ,5,49.1764553672
+bag_953,bike_65 bike_64 doll_593 ball_748 book_1059 ,5,49.1728342576
+bag_626,coal_101 horse_232 ball_1074 ball_1077 ball_1076 ,5,49.2564019225
+bag_982,bike_147 bike_146 doll_66 book_1198 book_1196 ,5,49.1764553672
+bag_394,blocks_314 blocks_492 blocks_861 blocks_316 book_597 ,5,48.6688972075
+bag_379,blocks_783 blocks_780 blocks_781 blocks_165 book_1099 ,5,48.6688972075
+bag_390,bike_2 bike_3 horse_968 book_590 book_591 ,5,49.1811948143
+bag_391,bike_4 bike_5 doll_684 book_592 book_593 ,5,49.1764553672
+bag_392,bike_6 bike_7 doll_685 book_594 book_595 ,5,49.1764553672
+bag_393,blocks_866 blocks_865 blocks_864 blocks_647 book_596 ,5,48.6688972075
+bag_189,bike_126 bike_123 horse_932 ball_615 ball_614 ,5,49.1739525952
+bag_754,bike_460 bike_461 horse_636 ball_727 ball_726 ,5,49.1739525952
+bag_755,bike_462 bike_463 horse_786 ball_725 ball_724 ,5,49.1739525952
+bag_756,bike_464 bike_465 horse_787 ball_729 ball_728 ,5,49.1739525952
+bag_751,train_822 train_823 blocks_900 blocks_901 horse_630 ,5,48.4281723987
+bag_752,blocks_902 blocks_903 train_828 train_829 horse_631 ,5,48.4281723987
+bag_758,bike_468 bike_469 horse_811 book_424 book_425 ,5,49.1811948143
+bag_133,blocks_149 blocks_498 blocks_499 blocks_812 ball_453 ,5,48.665276098
+bag_134,blocks_813 blocks_810 blocks_811 blocks_816 ball_452 ,5,48.665276098
+bag_135,blocks_817 blocks_814 blocks_815 blocks_818 ball_989 ,5,48.665276098
+bag_136,blocks_819 blocks_450 blocks_728 blocks_729 ball_988 ,5,48.665276098
+bag_137,bike_132 bike_133 horse_768 ball_987 ball_986 ,5,49.1739525952
+bag_138,bike_130 bike_131 horse_769 ball_985 ball_984 ,5,49.1739525952
+bag_139,bike_136 bike_137 horse_766 ball_983 ball_982 ,5,49.1739525952
+bag_924,bike_260 bike_261 doll_504 ball_937 ball_935 ,5,49.1692131481
+bag_570,doll_445 train_872 blocks_971 blocks_970 train_879 ,5,48.4234329516
+bag_573,blocks_526 blocks_302 blocks_527 blocks_524 book_1157 ,5,48.6688972075
+bag_343,bike_200 bike_201 horse_200 ball_607 ball_608 ,5,49.1739525952
+bag_347,blocks_848 blocks_244 blocks_845 blocks_660 book_708 ,5,48.6688972075
+bag_471,bike_396 bike_397 horse_982 book_756 book_757 ,5,49.1811948143
+bag_470,bike_390 bike_391 horse_985 book_750 book_751 ,5,49.1811948143
+bag_349,blocks_843 blocks_666 train_943 train_942 horse_688 ,5,48.4281723987
+bag_348,blocks_847 blocks_846 blocks_841 blocks_840 book_701 ,5,48.6688972075
+bag_185,blocks_804 blocks_807 blocks_806 blocks_809 ball_617 ,5,48.665276098
+bag_184,blocks_800 blocks_803 blocks_802 blocks_805 ball_610 ,5,48.665276098
+bag_186,blocks_808 blocks_723 blocks_51 blocks_734 ball_616 ,5,48.665276098
+bag_180,bike_15 train_165 train_164 horse_939 gloves_181 ,5,48.6804026096
+bag_783,bike_474 bike_479 horse_790 ball_713 ball_710 ,5,49.1739525952
+bag_782,bike_476 bike_475 horse_791 ball_715 ball_712 ,5,49.1739525952
+bag_781,bike_470 bike_477 horse_792 ball_717 ball_714 ,5,49.1739525952
+bag_780,bike_472 bike_471 horse_793 book_1133 ball_716 ,5,49.1775737047
+bag_787,bike_216 bike_214 doll_435 book_858 book_402 ,5,49.1764553672
+bag_824,bike_226 bike_227 horse_871 book_156 book_157 ,5,49.1811948143
+bag_825,bike_224 bike_225 horse_878 book_158 book_159 ,5,49.1811948143
+bag_822,bike_222 bike_223 horse_873 book_152 book_401 ,5,49.1811948143
+bag_823,bike_220 bike_221 horse_870 book_154 book_155 ,5,49.1811948143
+bag_963,bike_375 bike_376 horse_71 ball_922 book_994 ,5,49.1775737047
+bag_962,bike_373 bike_374 horse_72 ball_920 ball_923 ,5,49.1739525952
+bag_961,bike_371 bike_372 horse_73 ball_927 ball_921 ,5,49.1739525952
+bag_655,coal_99 book_694 book_403 book_400 doll_463 ,5,49.262525804
+bag_712,blocks_103 blocks_104 blocks_105 blocks_454 book_97 ,5,48.6688972075
+bag_713,blocks_455 blocks_108 train_769 train_768 doll_884 ,5,48.4234329516
+bag_912,bike_432 bike_431 horse_537 ball_757 ball_754 ,5,49.1739525952
+bag_910,bike_436 bike_435 horse_539 ball_753 ball_750 ,5,49.1739525952
+bag_911,bike_434 bike_433 horse_538 ball_751 ball_756 ,5,49.1739525952
+bag_916,bike_96 bike_97 horse_531 book_1060 book_1061 ,5,49.1811948143
+bag_917,bike_94 bike_95 horse_530 book_1066 book_1067 ,5,49.1811948143
+bag_914,bike_92 bike_93 horse_533 ball_758 ball_759 ,5,49.1739525952
+bag_915,bike_90 bike_91 horse_532 book_1068 book_1069 ,5,49.1811948143
+bag_919,blocks_885 blocks_884 blocks_887 blocks_886 book_1064 ,5,48.6688972075
+bag_991,bike_72 bike_73 doll_339 ball_488 book_1043 ,5,49.1728342576
+bag_821,bike_228 bike_229 horse_872 book_150 book_151 ,5,49.1811948143
+bag_812,blocks_621 train_798 train_799 blocks_218 horse_788 ,5,48.4281723987
+bag_985,bike_419 bike_418 horse_557 book_1193 book_1190 ,5,49.1811948143
+bag_984,bike_149 bike_148 horse_886 book_1195 book_1192 ,5,49.1811948143
+bag_987,bike_78 bike_79 horse_882 book_1191 book_415 ,5,49.1811948143
+bag_435,doll_168 book_582 book_581 book_580 coal_149 ,5,49.262525804
+bag_262,train_369 blocks_223 bike_347 horse_27 ball_543 ,5,48.8010624969
+bag_266,blocks_139 blocks_138 train_143 train_141 horse_970 ,5,48.4281723987
+bag_141,horse_761 bike_318 bike_319 book_987 book_986 ,5,49.1811948143
+bag_143,bike_310 bike_311 horse_14 book_983 book_982 ,5,49.1811948143
+bag_142,bike_312 bike_313 horse_15 book_985 book_984 ,5,49.1811948143
+bag_145,bike_314 bike_315 horse_16 book_538 book_539 ,5,49.1811948143
+bag_144,bike_316 bike_317 horse_17 book_981 book_980 ,5,49.1811948143
+bag_680,bike_488 bike_489 horse_838 book_1105 book_1104 ,5,49.1811948143
+bag_681,blocks_922 blocks_923 blocks_920 blocks_921 book_1107 ,5,48.6688972075
+bag_501,bike_345 train_708 blocks_157 horse_424 ball_647 ,5,48.8010624969
+bag_500,bike_197 bike_190 horse_425 ball_645 ball_646 ,5,49.1739525952
+bag_506,blocks_624 blocks_627 blocks_626 blocks_623 book_744 ,5,48.6688972075
+bag_310,blocks_446 coal_26 blocks_581 blocks_678 doll_802 ,5,48.318787876
+bag_312,blocks_858 blocks_859 blocks_672 blocks_673 book_1009 ,5,48.6688972075
+bag_313,blocks_670 blocks_583 blocks_676 blocks_677 book_716 ,5,48.6688972075
+bag_448,bike_26 bike_25 doll_958 book_77 book_762 ,5,49.1764553672
+bag_449,bike_24 blocks_663 train_334 horse_417 ball_248 ,5,48.8010624969
+bag_884,bike_81 bike_80 horse_856 book_176 book_177 ,5,49.1811948143
+bag_885,bike_83 bike_82 horse_501 book_174 book_175 ,5,49.1811948143
+bag_886,bike_89 bike_88 horse_506 book_172 book_173 ,5,49.1811948143
+bag_880,bike_421 bike_422 horse_508 ball_766 ball_765 ,5,49.1739525952
+bag_882,bike_85 bike_84 horse_854 ball_763 ball_762 ,5,49.1739525952
+bag_883,bike_87 bike_86 horse_855 ball_761 ball_760 ,5,49.1739525952
+bag_888,blocks_726 blocks_708 blocks_75 blocks_74 book_170 ,5,48.6688972075
+bag_617,coal_86 book_687 doll_949 book_545 ball_1079 ,5,49.2589046945
+bag_610,blocks_48 blocks_49 blocks_239 blocks_163 ball_852 ,5,48.665276098
+bag_596,blocks_237 blocks_634 blocks_327 blocks_632 ball_481 ,5,48.665276098
+bag_818,bike_199 bike_448 horse_658 ball_703 ball_702 ,5,49.1739525952
+bag_817,bike_441 bike_198 horse_309 ball_701 book_1 ,5,49.1775737047
+bag_816,bike_443 bike_440 horse_308 ball_709 book_9 ,5,49.1775737047
+bag_769,blocks_0 blocks_873 blocks_7 blocks_6 ball_1039 ,5,48.665276098
+bag_1000,bike_365 bike_364 doll_780 book_104 book_103 ,5,49.1764553672
+bag_109,bike_329 bike_328 horse_593 ball_999 ball_994 ,5,49.1739525952
+bag_104,blocks_397 blocks_396 blocks_715 blocks_714 ball_448 ,5,48.665276098
+bag_103,blocks_393 blocks_392 blocks_395 blocks_394 ball_441 ,5,48.665276098
+bag_1017,train_668 train_669 blocks_616 blocks_511 horse_728 ,5,48.4281723987
+bag_466,blocks_121 blocks_320 blocks_321 blocks_322 ball_635 ,5,48.665276098
+bag_464,blocks_208 blocks_250 blocks_387 blocks_335 ball_632 ,5,48.665276098
+bag_461,blocks_651 blocks_249 train_518 train_519 doll_980 ,5,48.4234329516
+bag_544,blocks_66 blocks_67 blocks_64 blocks_65 book_488 ,5,48.6688972075
+bag_469,bike_392 bike_393 horse_984 book_752 book_753 ,5,49.1811948143
+bag_354,blocks_799 blocks_798 blocks_493 blocks_646 book_707 ,5,48.6688972075
+bag_356,train_899 train_898 blocks_790 blocks_491 doll_53 ,5,48.4234329516
+bag_192,bike_309 bike_308 horse_935 book_523 book_522 ,5,49.1811948143
+bag_191,bike_129 bike_128 horse_936 book_521 book_520 ,5,49.1811948143
+bag_211,bike_56 bike_57 horse_403 ball_556 ball_557 ,5,49.1739525952
+bag_213,bike_52 bike_53 horse_401 ball_552 ball_553 ,5,49.1739525952
+bag_212,bike_54 bike_55 horse_402 ball_550 ball_551 ,5,49.1739525952
+bag_215,blocks_604 blocks_617 blocks_603 blocks_602 ball_439 ,5,48.665276098
+bag_214,bike_50 bike_51 horse_400 ball_558 ball_559 ,5,49.1739525952
+bag_994,blocks_752 blocks_755 blocks_754 blocks_757 book_1046 ,5,48.6688972075
+bag_796,bike_415 bike_414 gloves_163 gloves_160 ball_150 ,5,49.1697365197
+bag_797,bike_417 bike_416 gloves_161 gloves_166 ball_151 ,5,49.1697365197
+bag_852,bike_189 bike_188 horse_668 book_143 book_142 ,5,49.1811948143
+bag_857,bike_231 bike_233 book_418 doll_783 ball_914 ,5,49.1728342576
+bag_856,bike_237 bike_236 doll_784 book_148 book_419 ,5,49.1764553672
+bag_855,bike_235 bike_234 book_412 doll_785 book_149 ,5,49.1764553672
+bag_492,blocks_153 blocks_409 blocks_408 blocks_405 ball_258 ,5,48.665276098
+bag_491,bike_332 bike_333 horse_945 book_301 ball_259 ,5,49.1775737047
+bag_497,blocks_5 blocks_4 train_293 train_292 horse_820 ,5,48.4281723987
+bag_494,blocks_406 blocks_401 blocks_403 blocks_152 ball_253 ,5,48.665276098
+bag_282,blocks_245 blocks_123 blocks_78 blocks_372 book_891 ,5,48.6688972075
+bag_283,blocks_120 train_687 bike_134 doll_129 book_890 ,5,48.7999441594
+bag_979,train_679 train_678 blocks_539 blocks_538 doll_357 ,5,48.4234329516
+bag_726,bike_273 bike_272 horse_821 book_185 book_184 ,5,49.1811948143
+bag_721,bike_494 bike_497 horse_801 ball_738 ball_739 ,5,49.1739525952
+bag_720,bike_498 bike_495 horse_802 ball_736 book_1111 ,5,49.1775737047
+bag_722,bike_496 bike_491 horse_800 book_1118 book_1119 ,5,49.1811948143
+bag_728,bike_277 bike_276 horse_823 book_189 book_188 ,5,49.1811948143
+bag_646,bike_257 bike_255 doll_464 book_216 book_215 ,5,49.1764553672
+bag_644,bike_253 bike_252 horse_79 book_474 book_479 ,5,49.1811948143
+bag_645,bike_251 bike_250 horse_78 book_478 book_217 ,5,49.1811948143
+bag_643,bike_259 bike_258 doll_791 book_476 book_475 ,5,49.1764553672
+bag_640,blocks_951 blocks_950 blocks_957 blocks_956 book_472 ,5,48.6688972075
+bag_641,blocks_891 blocks_954 blocks_959 blocks_958 book_471 ,5,48.6688972075
+bag_368,train_16 train_17 train_14 train_15 coal_15 ,5,48.506740037
+bag_625,bike_398 bike_399 horse_231 ball_1072 ball_1075 ,5,49.1739525952
+bag_1018,blocks_505 blocks_506 blocks_507 blocks_502 book_514 ,5,48.6688972075
+bag_428,blocks_319 blocks_318 blocks_649 blocks_869 book_1020 ,5,48.6688972075
+bag_427,blocks_312 blocks_315 blocks_317 blocks_860 book_889 ,5,48.6688972075
+bag_254,coal_111 doll_193 book_952 book_953 book_954 ,5,49.262525804
+bag_256,blocks_644 blocks_61 train_41 train_40 doll_336 ,5,48.4234329516
+bag_253,coal_110 doll_192 book_959 book_950 book_951 ,5,49.262525804
+bag_998,bike_361 bike_360 doll_786 book_108 book_107 ,5,49.1764553672
+bag_514,bike_348 blocks_131 blocks_130 doll_413 ,4,48.4170899011
+bag_474,blocks_251 blocks_32 bike_338 doll_439 ,4,48.4170899011
+bag_413,blocks_367 bike_219 blocks_345 horse_446 ,4,48.4218293482
+bag_950,blocks_207 blocks_855 bike_186 horse_527 ,4,48.4218293482
+bag_388,bike_9 blocks_30 blocks_867 horse_966 ,4,48.4218293482
+bag_687,bike_269 bike_262 horse_835 gloves_155 ,4,48.6740595591
+bag_685,bike_484 bike_485 horse_830 gloves_156 ,4,48.6740595591
+bag_231,bike_125 blocks_836 blocks_837 horse_742 ,4,48.4218293482
+bag_279,doll_831 bike_292 blocks_126 blocks_79 ,4,48.4170899011
+bag_179,bike_17 bike_14 horse_248 gloves_189 ,4,48.6740595591
+bag_175,blocks_512 blocks_721 bike_18 horse_756 ,4,48.4218293482
+bag_532,bike_263 blocks_597 blocks_596 doll_16 ,4,48.4170899011
+bag_584,bike_405 blocks_305 blocks_341 horse_415 ,4,48.4218293482
+bag_188,blocks_731 blocks_730 bike_124 horse_933 ,4,48.4218293482
+bag_719,blocks_936 bike_499 blocks_933 horse_803 ,4,48.4218293482
+bag_341,bike_204 blocks_779 blocks_643 horse_204 ,4,48.4218293482
+bag_346,bike_209 blocks_668 blocks_849 horse_689 ,4,48.4218293482
+bag_918,bike_98 blocks_881 blocks_880 horse_525 ,4,48.4218293482
+bag_505,blocks_156 bike_192 blocks_625 horse_420 ,4,48.4218293482
+bag_311,bike_304 blocks_679 blocks_582 doll_803 ,4,48.4170899011
+bag_813,blocks_219 blocks_620 bike_446 horse_789 ,4,48.4218293482
+bag_105,blocks_717 blocks_716 bike_109 horse_774 ,4,48.4218293482
+bag_465,blocks_385 bike_180 horse_458 blocks_326 ,4,48.4218293482
+bag_1026,blocks_517 blocks_182 blocks_183 blocks_184 ,4,46.6658817666
+bag_493,bike_195 blocks_404 blocks_407 horse_725 ,4,48.4218293482
+bag_495,bike_339 blocks_3 blocks_2 horse_30 ,4,48.4218293482
+bag_280,bike_291 blocks_127 blocks_124 doll_652 ,4,48.4170899011
+bag_281,bike_290 blocks_125 blocks_122 horse_877 ,4,48.4218293482
+bag_647,bike_254 blocks_416 blocks_391 doll_679 ,4,48.4170899011
+bag_361,coal_164 doll_368 doll_59 ,3,48.2513530315
+bag_360,coal_165 doll_58 doll_369 ,3,48.2513530315
+bag_480,bike_115 coal_71 bike_116 ,3,48.494053936
+bag_486,bike_278 bike_334 coal_43 ,3,48.494053936
+bag_1025,bike_179 blocks_180 blocks_181 ,3,43.4192163509
+bag_580,bike_403 bike_400 coal_73 ,3,48.494053936
+bag_583,coal_79 bike_407 bike_404 ,3,48.494053936
+bag_248,coal_116 doll_199 doll_333 ,3,48.2513530315
+bag_986,coal_118 horse_556 horse_551 ,3,48.2608319257
+bag_1027,blocks_185 bike_49 blocks_186 ,3,43.4192163509
+bag_615,coal_88 coal_80 book_681 ,3,48.5801243728
+bag_614,coal_89 coal_81 book_680 ,3,48.5801243728
+bag_618,coal_85 doll_317 doll_948 ,3,48.2513530315
+bag_193,horse_934 coal_123 doll_773 ,3,48.2560924786
+bag_621,coal_82 doll_486 horse_238 ,3,48.2560924786
+bag_156,coal_138 horse_852 doll_313 ,3,48.2560924786

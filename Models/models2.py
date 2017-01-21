@@ -76,7 +76,7 @@ def _check_minimum_number_of_gifts_in_bag(number_of_gifts):
 # Creating bags of gifts:
 def _fill_bags_with_gifts():
     bags = {}
-    toys = pickle.load(open('/home/tarun/Self-Learning/Kaggle/Santa_Uncertain_Bags/Data/toys_remaining.pickle3', 'rb'))
+    toys = pickle.load(open('/home/tarun/Self-Learning/Kaggle/Santa_Uncertain_Bags/Data/toys_remaining4.pickle', 'rb'))
     toys_copy = toys.copy()
     used_gifts = []
     not_used = []
@@ -87,13 +87,13 @@ def _fill_bags_with_gifts():
         for id in used_gifts:
             if id in toys:
                 del toys[id]
-        if len(used_gifts) == 22:
+        if len(used_gifts) == 36:
             print 'not used: ', len(not_used)
             print not_used
             for rem in not_used:
                 # string = rem[:rem.find("_")]
                 not_used_dict[rem] = toys_copy[rem]
-            pickle.dump(not_used_dict, open('/home/tarun/Self-Learning/Kaggle/Santa_Uncertain_Bags/Data/toys_remaining.pickle4', 'wb'))
+            pickle.dump(not_used_dict, open('/home/tarun/Self-Learning/Kaggle/Santa_Uncertain_Bags/Data/toys_remaining5.pickle', 'wb'))
             break
         else:
             number_of_bags += 1
@@ -130,4 +130,4 @@ def _capture_answer():
     return submission
 
 
-_capture_answer().to_csv('../Submissions/submission_10B.csv', index=False)
+_capture_answer().to_csv('../Submissions/submission_11D.csv', index=False)
