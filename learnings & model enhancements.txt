@@ -1,0 +1,15 @@
+Model enhancements/Learnings:
+
+1. Started with using separate dictionaries for each toy type. Merged them all to create a single dictionary and used it for later models. Was able to create a better optimizer using this.
+
+2. Added an upper cap on weight per bag as 50lb. In case the bag is busted (> 50lb), the latest gift was removed from the bag before moving to next iteration.
+
+3. Generated individual weights for each toy using the provided distribution. However, this did not seem to work. Then, simulated these distributions to calculate mean weight for each toy type (two each for coal and gloves, as their distribution was bimodal in nature). This strategy was helpful in bagging around 1000 additional points. Number of simulations used per toy type = 1000000
+
+4. Checked number of used gifts after filling each bag and remove them from the iterated dictionary. This helped in preventing any gift from double counting + lesser number of iterations
+
+5. Added the minimum 3 gifts per bag condition to the model and removed it from bags dictionary in case it violated the condition (< 3 bags).
+
+6. Lastly, added a condition after every iteration to remove those gifts from toys dictionary which were heavier than the {50 - 2 * (least weight)} to honor the condition the minimum 3 bags. However, this did not work as expected.
+
+7. The competition was definitely harder than I thought at the inital stage. Took around 2 weeks to beat my first submission score, and another week to do minor enhancements to the model. My performance was very ordinary in this competition. Not able to break even into top 50%.
